@@ -119,7 +119,7 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 
 ### StarkWare
 
-* [Awesome-starknet](https://github.com/gakonst/awesome-starknet) ⭐ 1,550 | 🐛 20 | 📅 2025-01-06 - A curated list of starkNet resources.
+* [Awesome-starknet](https://github.com/gakonst/awesome-starknet) ⭐ 1,551 | 🐛 20 | 📅 2025-01-06 - A curated list of starkNet resources.
 * [Warp:transpile solidity to cairo](https://github.com/NethermindEth/warp) ⚠️ Archived
 
 ### Zero-Knowledge-Proofs
@@ -153,7 +153,7 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 ### Transpiler-Based zkEVM
 
 * [StarkNet](https://medium.com/starkware/starknet-alpha-2-4aa116f0ecfc)
-* [Miden](https://github.com/maticnetwork/miden) ⭐ 768 | 🐛 209 | 🌐 Rust | 📅 2026-08-15
+* [Miden](https://github.com/maticnetwork/miden) ⭐ 768 | 🐛 210 | 🌐 Rust | 📅 2026-08-15
 
 ### Other
 
@@ -168,4 +168,4 @@ Please have a look at [contributing.md](https://github.com/LuozhuZhang/awesome-z
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._

@@ -123,7 +123,7 @@
             "last_commit": "2025-01-06T14:19:12Z",
             "owner": "keep-starknet-strange",
             "repo": "awesome-starknet",
-            "stars": 1550
+            "stars": 1551
           }
         },
         {
@@ -184,7 +184,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T04:42:15.889Z",
+    "last_updated": "2026-08-16T04:46:22.865Z",
     "original_repository": "LuozhuZhang/awesome-zkevm",
     "original_repository_sha": "c62dd7eee57f7fb8252b58f594b83bae15de80c8",
     "enhanced_repository": "enhansome/enhansome-zkevm",
