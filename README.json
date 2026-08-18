@@ -166,7 +166,7 @@
           "description": null,
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "language": "Rust",
             "last_commit": "2026-07-01T09:15:47Z",
             "owner": "privacy-ethereum",
@@ -184,7 +184,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T04:54:21.717Z",
+    "last_updated": "2026-08-18T04:47:16.531Z",
     "original_repository": "LuozhuZhang/awesome-zkevm",
     "original_repository_sha": "c62dd7eee57f7fb8252b58f594b83bae15de80c8",
     "enhanced_repository": "enhansome/enhansome-zkevm",
