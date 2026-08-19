@@ -1,191 +1,186 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Article - Video"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Zero-Knowledge-Proofs"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "barryWhiteHat rollup",
+              "description": "First rollup implemented by barryWhiteHat.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 147513646,
+                "language": "C++",
+                "last_commit": "2023-02-27T06:58:55Z",
+                "owner": "barryWhiteHat",
+                "repo": "roll_up",
+                "stars": 369
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "idn3 rollup",
+              "description": "iden3 rollup implement.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 195442001,
+                "language": "JavaScript",
+                "last_commit": "2024-03-15T23:16:50Z",
+                "owner": "iden3",
+                "repo": "rollup",
+                "stars": 91
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Early Rollup"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "zkEVM-circuit",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 380947649,
+                "language": "Rust",
+                "last_commit": "2024-07-05T08:44:26Z",
+                "owner": "privacy-ethereum",
+                "repo": "zkevm-circuits",
+                "stars": 821
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zkEVM-spec",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 380211759,
+                "language": "Python",
+                "last_commit": "2024-07-05T08:54:23Z",
+                "owner": "privacy-ethereum",
+                "repo": "zkevm-specs",
+                "stars": 332
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Scroll and Appliedzkp(PSE)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "zksync v1",
+              "description": "zksync v1 source code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 189174934,
+                "language": "Rust",
+                "last_commit": "2026-05-08T09:04:17Z",
+                "owner": "matter-labs",
+                "repo": "zksync",
+                "stars": 4923
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "zkSync"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome-starknet",
+              "description": "A curated list of starkNet resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 431089531,
+                "language": null,
+                "last_commit": "2025-01-06T14:19:12Z",
+                "owner": "keep-starknet-strange",
+                "repo": "awesome-starknet",
+                "stars": 1551
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Warp:transpile solidity to cairo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 386945277,
+                "language": "TypeScript",
+                "last_commit": "2023-08-26T12:59:51Z",
+                "owner": "NethermindEth",
+                "repo": "warp",
+                "stars": 744
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "StarkWare"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Halo2 repo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 290019239,
+                "language": "Rust",
+                "last_commit": "2026-08-10T10:22:23Z",
+                "owner": "zcash",
+                "repo": "halo2",
+                "stars": 914
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Halo2 for PSE and Scroll",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 417466633,
+                "language": "Rust",
+                "last_commit": "2026-07-01T09:15:47Z",
+                "owner": "privacy-ethereum",
+                "repo": "halo2",
+                "stars": 252
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Halo2"
+        }
+      ],
       "title": "Resources - libraries, tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "barryWhiteHat rollup",
-          "description": "First rollup implemented by barryWhiteHat.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2023-02-27T06:58:55Z",
-            "owner": "barryWhiteHat",
-            "repo": "roll_up",
-            "stars": 369
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "idn3 rollup",
-          "description": "iden3 rollup implement.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2024-03-15T23:16:50Z",
-            "owner": "iden3",
-            "repo": "rollup",
-            "stars": 91
-          }
-        }
-      ],
-      "title": "Early Rollup"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "zkEVM-circuit",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2024-07-05T08:44:26Z",
-            "owner": "privacy-ethereum",
-            "repo": "zkevm-circuits",
-            "stars": 821
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zkEVM-spec",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2024-07-05T08:54:23Z",
-            "owner": "privacy-ethereum",
-            "repo": "zkevm-specs",
-            "stars": 332
-          }
-        }
-      ],
-      "title": "Scroll and Appliedzkp(PSE)"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "zksync v1",
-          "description": "zksync v1 source code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-05-08T09:04:17Z",
-            "owner": "matter-labs",
-            "repo": "zksync",
-            "stars": 4923
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "compiler-solidity",
-          "description": "zkSync v2 compiler.",
-          "children": []
-        }
-      ],
-      "title": "zkSync"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Awesome-starknet",
-          "description": "A curated list of starkNet resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-01-06T14:19:12Z",
-            "owner": "keep-starknet-strange",
-            "repo": "awesome-starknet",
-            "stars": 1551
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Warp:transpile solidity to cairo",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2023-08-26T12:59:51Z",
-            "owner": "NethermindEth",
-            "repo": "warp",
-            "stars": 744
-          }
-        }
-      ],
-      "title": "StarkWare"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Halo2 repo",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-10T10:22:23Z",
-            "owner": "zcash",
-            "repo": "halo2",
-            "stars": 914
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Halo2 for PSE and Scroll",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2026-07-01T09:15:47Z",
-            "owner": "privacy-ethereum",
-            "repo": "halo2",
-            "stars": 252
-          }
-        }
-      ],
-      "title": "Halo2"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Different Solutions"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T04:47:52.230Z",
+    "last_updated": "2026-08-19T13:00:04.832Z",
     "original_repository": "LuozhuZhang/awesome-zkevm",
+    "original_repository_id": 480656314,
     "original_repository_sha": "c62dd7eee57f7fb8252b58f594b83bae15de80c8",
     "enhanced_repository": "enhansome/enhansome-zkevm",
     "enhanced_repository_description": null,
