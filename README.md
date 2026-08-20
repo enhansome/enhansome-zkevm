@@ -153,7 +153,7 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 ### Transpiler-Based zkEVM
 
 * [StarkNet](https://medium.com/starkware/starknet-alpha-2-4aa116f0ecfc)
-* [Miden](https://github.com/maticnetwork/miden) ⭐ 768 | 🐛 206 | 🌐 Rust | 📅 2026-08-19
+* [Miden](https://github.com/maticnetwork/miden) ⭐ 768 | 🐛 205 | 🌐 Rust | 📅 2026-08-20
 
 ### Other
 
@@ -168,4 +168,4 @@ Please have a look at [contributing.md](https://github.com/LuozhuZhang/awesome-z
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
