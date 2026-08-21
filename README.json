@@ -165,7 +165,7 @@
                 "last_commit": "2026-07-01T09:15:47Z",
                 "owner": "privacy-ethereum",
                 "repo": "halo2",
-                "stars": 252
+                "stars": 251
               }
             }
           ],
@@ -178,7 +178,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T04:48:46.418Z",
+    "last_updated": "2026-08-21T04:50:39.885Z",
     "original_repository": "LuozhuZhang/awesome-zkevm",
     "original_repository_id": 480656314,
     "original_repository_sha": "c62dd7eee57f7fb8252b58f594b83bae15de80c8",
