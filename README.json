@@ -91,7 +91,7 @@
                 "last_commit": "2026-05-08T09:04:17Z",
                 "owner": "matter-labs",
                 "repo": "zksync",
-                "stars": 4923
+                "stars": 4922
               }
             }
           ],
@@ -178,7 +178,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T04:44:32.052Z",
+    "last_updated": "2026-08-23T04:48:34.580Z",
     "original_repository": "LuozhuZhang/awesome-zkevm",
     "original_repository_id": 480656314,
     "original_repository_sha": "c62dd7eee57f7fb8252b58f594b83bae15de80c8",
