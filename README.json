@@ -81,6 +81,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Polygon Hermez zkEVM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 425802763,
+                "language": "C++",
+                "last_commit": "2025-08-29T13:47:07Z",
+                "owner": "0xPolygon",
+                "repo": "zkevm-prover",
+                "stars": 242
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Polygon Hermez"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Plonky2",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 339874055,
+                "language": "Rust",
+                "last_commit": "2025-07-01T15:45:09Z",
+                "owner": "0xPolygonZero",
+                "repo": "plonky2",
+                "stars": 858
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Polygon Zero"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "zksync v1",
               "description": "zksync v1 source code.",
               "children": [],
@@ -91,7 +135,7 @@
                 "last_commit": "2026-05-08T09:04:17Z",
                 "owner": "matter-labs",
                 "repo": "zksync",
-                "stars": 4922
+                "stars": 4923
               }
             }
           ],
@@ -140,6 +184,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Awesome-zkps",
+              "description": "A curated list of zkps resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 156949882,
+                "language": null,
+                "last_commit": "2026-01-23T15:01:47Z",
+                "owner": "matter-labs",
+                "repo": "awesome-zero-knowledge-proofs",
+                "stars": 5804
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Zero-Knowledge-Proofs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Halo2 repo",
               "description": null,
               "children": [],
@@ -172,13 +238,35 @@
           "description": null,
           "node_type": "group",
           "title": "Halo2"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "supranational - sppark",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 503455959,
+                "language": "Cuda",
+                "last_commit": "2026-06-04T10:12:39Z",
+                "owner": "supranational",
+                "repo": "sppark",
+                "stars": 222
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "zkp Acceleration"
         }
       ],
       "title": "Resources - libraries, tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:57:17.549Z",
+    "last_updated": "2026-08-24T14:24:16.008Z",
     "original_repository": "LuozhuZhang/awesome-zkevm",
     "original_repository_id": 480656314,
     "original_repository_sha": "c62dd7eee57f7fb8252b58f594b83bae15de80c8",

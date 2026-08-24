@@ -113,7 +113,7 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 
 ### zkSync
 
-* [zksync v1](https://github.com/matter-labs/zksync) ⭐ 4,922 | 🐛 106 | 🌐 Rust | 📅 2026-05-08 - zksync v1 source code.
+* [zksync v1](https://github.com/matter-labs/zksync) ⭐ 4,923 | 🐛 106 | 🌐 Rust | 📅 2026-05-08 - zksync v1 source code.
 * [compiler-solidity](https://github.com/matter-labs/compiler-solidity) - zkSync v2 compiler.
 * [zksync v2 portal](https://portal.zksync.io/) - zksync v2 faucet, Goerli network.
 
@@ -134,8 +134,8 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 
 ### zkp Acceleration
 
-* [supranational](https://github.com/supranational)
 * [supranational - sppark](https://github.com/supranational/sppark) ⭐ 222 | 🐛 7 | 🌐 Cuda | 📅 2026-06-04
+* [supranational](https://github.com/supranational)
 
 ## Different Solutions
 
@@ -153,7 +153,7 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 ### Transpiler-Based zkEVM
 
 * [StarkNet](https://medium.com/starkware/starknet-alpha-2-4aa116f0ecfc)
-* [Miden](https://github.com/maticnetwork/miden) ⭐ 769 | 🐛 196 | 🌐 Rust | 📅 2026-08-23
+* [Miden](https://github.com/maticnetwork/miden) ⭐ 769 | 🐛 196 | 🌐 Rust | 📅 2026-08-24
 
 ### Other
 
