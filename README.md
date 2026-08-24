@@ -124,7 +124,7 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 
 ### Zero-Knowledge-Proofs
 
-* [Awesome-zkps](https://github.com/matter-labs/awesome-zero-knowledge-proofs) ⭐ 5,803 | 🐛 16 | 📅 2026-01-23 - A curated list of zkps resources.
+* [Awesome-zkps](https://github.com/matter-labs/awesome-zero-knowledge-proofs) ⭐ 5,804 | 🐛 16 | 📅 2026-01-23 - A curated list of zkps resources.
 
 ### Halo2
 
@@ -153,7 +153,7 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 ### Transpiler-Based zkEVM
 
 * [StarkNet](https://medium.com/starkware/starknet-alpha-2-4aa116f0ecfc)
-* [Miden](https://github.com/maticnetwork/miden) ⭐ 769 | 🐛 196 | 🌐 Rust | 📅 2026-08-22
+* [Miden](https://github.com/maticnetwork/miden) ⭐ 769 | 🐛 196 | 🌐 Rust | 📅 2026-08-23
 
 ### Other
 
@@ -168,4 +168,4 @@ Please have a look at [contributing.md](https://github.com/LuozhuZhang/awesome-z
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

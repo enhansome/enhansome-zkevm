@@ -69,7 +69,7 @@
                 "last_commit": "2024-07-05T08:54:23Z",
                 "owner": "privacy-ethereum",
                 "repo": "zkevm-specs",
-                "stars": 332
+                "stars": 331
               }
             }
           ],
@@ -165,7 +165,7 @@
                 "last_commit": "2026-07-01T09:15:47Z",
                 "owner": "privacy-ethereum",
                 "repo": "halo2",
-                "stars": 251
+                "stars": 252
               }
             }
           ],
@@ -178,7 +178,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T04:48:34.580Z",
+    "last_updated": "2026-08-24T04:57:17.549Z",
     "original_repository": "LuozhuZhang/awesome-zkevm",
     "original_repository_id": 480656314,
     "original_repository_sha": "c62dd7eee57f7fb8252b58f594b83bae15de80c8",
