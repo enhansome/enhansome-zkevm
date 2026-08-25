@@ -216,7 +216,7 @@
                 "last_commit": "2026-08-10T10:22:23Z",
                 "owner": "zcash",
                 "repo": "halo2",
-                "stars": 914
+                "stars": 915
               }
             },
             {
@@ -266,7 +266,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:24:16.008Z",
+    "last_updated": "2026-08-25T04:50:00.585Z",
     "original_repository": "LuozhuZhang/awesome-zkevm",
     "original_repository_id": 480656314,
     "original_repository_sha": "c62dd7eee57f7fb8252b58f594b83bae15de80c8",
