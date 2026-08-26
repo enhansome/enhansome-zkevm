@@ -194,7 +194,7 @@
                 "last_commit": "2026-01-23T15:01:47Z",
                 "owner": "matter-labs",
                 "repo": "awesome-zero-knowledge-proofs",
-                "stars": 5804
+                "stars": 5805
               }
             }
           ],
@@ -216,7 +216,7 @@
                 "last_commit": "2026-08-10T10:22:23Z",
                 "owner": "zcash",
                 "repo": "halo2",
-                "stars": 915
+                "stars": 916
               }
             },
             {
@@ -266,7 +266,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:17:23.968Z",
+    "last_updated": "2026-08-26T04:51:33.790Z",
     "original_repository": "LuozhuZhang/awesome-zkevm",
     "original_repository_id": 480656314,
     "original_repository_sha": "c62dd7eee57f7fb8252b58f594b83bae15de80c8",
