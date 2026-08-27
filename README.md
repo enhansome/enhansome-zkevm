@@ -124,7 +124,7 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 
 ### Zero-Knowledge-Proofs
 
-* [Awesome-zkps](https://github.com/matter-labs/awesome-zero-knowledge-proofs) ⭐ 5,806 | 🐛 16 | 📅 2026-01-23 - A curated list of zkps resources.
+* [Awesome-zkps](https://github.com/matter-labs/awesome-zero-knowledge-proofs) ⭐ 5,807 | 🐛 16 | 📅 2026-01-23 - A curated list of zkps resources.
 
 ### Halo2
 
