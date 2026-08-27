@@ -135,7 +135,7 @@
                 "last_commit": "2026-05-08T09:04:17Z",
                 "owner": "matter-labs",
                 "repo": "zksync",
-                "stars": 4923
+                "stars": 4924
               }
             }
           ],
@@ -194,7 +194,7 @@
                 "last_commit": "2026-01-23T15:01:47Z",
                 "owner": "matter-labs",
                 "repo": "awesome-zero-knowledge-proofs",
-                "stars": 5805
+                "stars": 5806
               }
             }
           ],
@@ -253,7 +253,7 @@
                 "last_commit": "2026-06-04T10:12:39Z",
                 "owner": "supranational",
                 "repo": "sppark",
-                "stars": 222
+                "stars": 223
               }
             }
           ],
@@ -266,9 +266,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T04:51:33.790Z",
-    "original_repository": "LuozhuZhang/awesome-zkevm",
-    "original_repository_id": 480656314,
+    "last_updated": "2026-08-27T12:13:05.911Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 480656314,
+      "language": null,
+      "last_commit": "2023-12-24T16:04:37Z",
+      "owner": "LuozhuZhang",
+      "repo": "awesome-zkevm",
+      "stars": 470
+    },
     "original_repository_sha": "c62dd7eee57f7fb8252b58f594b83bae15de80c8",
     "enhanced_repository": "enhansome/enhansome-zkevm",
     "enhanced_repository_description": null,
