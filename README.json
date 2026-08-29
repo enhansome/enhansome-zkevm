@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "scale ethereum with snarks",
+                "homepage": null,
                 "id": 147513646,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2023-02-27T06:58:55Z",
+                "open_issues": 11,
                 "owner": "barryWhiteHat",
                 "repo": "roll_up",
-                "stars": 369
+                "stars": 369,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:34:09.590Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "rollup implementation",
+                "homepage": null,
                 "id": 195442001,
                 "language": "JavaScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2024-03-15T23:16:50Z",
+                "open_issues": 4,
                 "owner": "iden3",
                 "repo": "rollup",
-                "stars": 91
+                "stars": 91,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:34:09.590Z"
             }
@@ -51,12 +61,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": "https://privacy-scaling-explorations.github.io/zkevm-circuits/",
                 "id": 380947649,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-05T08:44:26Z",
+                "open_issues": 153,
                 "owner": "privacy-ethereum",
                 "repo": "zkevm-circuits",
-                "stars": 821
+                "stars": 821,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:34:09.590Z"
             },
@@ -67,12 +82,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 380211759,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-07-05T08:54:23Z",
+                "open_issues": 55,
                 "owner": "privacy-ethereum",
                 "repo": "zkevm-specs",
-                "stars": 331
+                "stars": 331,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:34:09.590Z"
             }
@@ -90,12 +110,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "zkEVM prover in C++",
+                "homepage": null,
                 "id": 425802763,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2025-08-29T13:47:07Z",
+                "open_issues": 135,
                 "owner": "0xPolygon",
                 "repo": "zkevm-prover",
-                "stars": 242
+                "stars": 242,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:34:09.590Z"
             }
@@ -113,12 +138,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 339874055,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2025-07-01T15:45:09Z",
+                "open_issues": 25,
                 "owner": "0xPolygonZero",
                 "repo": "plonky2",
-                "stars": 858
+                "stars": 858,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:34:09.590Z"
             }
@@ -136,12 +166,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "zkSync: trustless scaling and privacy engine for Ethereum",
+                "homepage": "https://zksync.io",
                 "id": 189174934,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-08T09:04:17Z",
+                "open_issues": 106,
                 "owner": "matter-labs",
                 "repo": "zksync",
-                "stars": 4924
+                "stars": 4924,
+                "topics": [
+                  "team-core"
+                ]
               },
               "first_seen": "2026-08-28T16:34:09.590Z"
             }
@@ -159,12 +196,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome StarkNet resources, libraries, tools and more",
+                "homepage": null,
                 "id": 431089531,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-01-06T14:19:12Z",
+                "open_issues": 20,
                 "owner": "keep-starknet-strange",
                 "repo": "awesome-starknet",
-                "stars": 1551
+                "stars": 1551,
+                "topics": [
+                  "cairo",
+                  "cairo-lang",
+                  "layer2",
+                  "rollups",
+                  "scaling",
+                  "starknet",
+                  "starks",
+                  "starkware",
+                  "zkrollup",
+                  "zkstarks"
+                ]
               },
               "first_seen": "2026-08-28T16:34:09.590Z"
             },
@@ -175,12 +228,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Warp - Bringing Solidity to Starknet at warp speed. Warp is a Solidity to Cairo Compiler, this allows teams to write/migrate Solidity to Cairo for easy onboarding into the StarkNet ecosystem.",
+                "homepage": "https://nethermind.io/warp/",
                 "id": 386945277,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2023-08-26T12:59:51Z",
+                "open_issues": 65,
                 "owner": "NethermindEth",
                 "repo": "warp",
-                "stars": 744
+                "stars": 744,
+                "topics": [
+                  "cairo-lang",
+                  "ethereum",
+                  "evm",
+                  "evm-bytecode",
+                  "solidity",
+                  "solidity-contracts",
+                  "starknet",
+                  "starkware"
+                ]
               },
               "first_seen": "2026-08-28T16:34:09.590Z"
             }
@@ -198,12 +265,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
+                "homepage": null,
                 "id": 156949882,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-01-23T15:01:47Z",
+                "open_issues": 16,
                 "owner": "matter-labs",
                 "repo": "awesome-zero-knowledge-proofs",
-                "stars": 5819
+                "stars": 5820,
+                "topics": [
+                  "explaining-snarks",
+                  "knowledge-proofs",
+                  "snark",
+                  "team-crypto",
+                  "zk-snarks"
+                ]
               },
               "first_seen": "2026-08-28T16:34:09.590Z"
             }
@@ -221,12 +299,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Halo2 zero-knowledge proving system",
+                "homepage": "https://zcash.github.io/halo2/",
                 "id": 290019239,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-10T10:22:23Z",
+                "open_issues": 270,
                 "owner": "zcash",
                 "repo": "halo2",
-                "stars": 916
+                "stars": 916,
+                "topics": [
+                  "cryptocurrency",
+                  "cryptography",
+                  "zcash",
+                  "zero-knowledge"
+                ]
               },
               "first_seen": "2026-08-28T16:34:09.590Z"
             },
@@ -237,12 +325,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": "https://privacy-scaling-explorations.github.io/halo2/",
                 "id": 417466633,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-01T09:15:47Z",
+                "open_issues": 8,
                 "owner": "privacy-ethereum",
                 "repo": "halo2",
-                "stars": 252
+                "stars": 252,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:34:09.590Z"
             }
@@ -260,12 +353,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zero-knowledge template library",
+                "homepage": null,
                 "id": 503455959,
                 "language": "Cuda",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-04T10:12:39Z",
+                "open_issues": 7,
                 "owner": "supranational",
                 "repo": "sppark",
-                "stars": 223
+                "stars": 223,
+                "topics": [
+                  "bls12-377",
+                  "bls12-381",
+                  "cuda",
+                  "ntt",
+                  "pasta-curves",
+                  "rocm",
+                  "zero-knowledge",
+                  "zero-knowledge-proofs",
+                  "zk-snarks",
+                  "zk-starks"
+                ]
               },
               "first_seen": "2026-08-28T16:34:09.590Z"
             }
@@ -279,15 +388,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:34:09.590Z",
+    "last_updated": "2026-08-29T04:44:38.116Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome zkEVM resources, libraries, tools and more",
+      "homepage": null,
       "id": 480656314,
       "language": null,
+      "license": null,
       "last_commit": "2023-12-24T16:04:37Z",
+      "open_issues": 4,
       "owner": "LuozhuZhang",
       "repo": "awesome-zkevm",
-      "stars": 470
+      "stars": 470,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "evm",
+        "layer2",
+        "native-zkevm",
+        "scaling",
+        "smart-contract",
+        "solidity",
+        "zero-knowledge-proofs",
+        "zk-rollup",
+        "zkevm"
+      ]
     },
     "original_repository_sha": "c62dd7eee57f7fb8252b58f594b83bae15de80c8",
     "enhanced_repository": "enhansome/enhansome-zkevm",
