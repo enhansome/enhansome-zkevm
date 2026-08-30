@@ -175,7 +175,7 @@
                 "open_issues": 106,
                 "owner": "matter-labs",
                 "repo": "zksync",
-                "stars": 4924,
+                "stars": 4925,
                 "topics": [
                   "team-core"
                 ]
@@ -274,7 +274,7 @@
                 "open_issues": 16,
                 "owner": "matter-labs",
                 "repo": "awesome-zero-knowledge-proofs",
-                "stars": 5820,
+                "stars": 5830,
                 "topics": [
                   "explaining-snarks",
                   "knowledge-proofs",
@@ -388,7 +388,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T11:00:38.826Z",
+    "last_updated": "2026-08-30T09:54:15.551Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome zkEVM resources, libraries, tools and more",
