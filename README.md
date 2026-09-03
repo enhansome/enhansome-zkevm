@@ -128,7 +128,7 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 
 ### Halo2
 
-* [Halo2 repo](https://github.com/zcash/halo2) ⭐ 916 | 🐛 271 | 🌐 Rust | 📅 2026-08-31
+* [Halo2 repo](https://github.com/zcash/halo2) ⭐ 916 | 🐛 274 | 🌐 Rust | 📅 2026-09-02
 * [Halo2 for PSE and Scroll](https://github.com/privacy-scaling-explorations/halo2) ⚠️ Archived
 * [Halo2 document](https://zcash.github.io/halo2/)
 
@@ -153,7 +153,7 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 ### Transpiler-Based zkEVM
 
 * [StarkNet](https://medium.com/starkware/starknet-alpha-2-4aa116f0ecfc)
-* [Miden](https://github.com/maticnetwork/miden) ⭐ 770 | 🐛 186 | 🌐 Rust | 📅 2026-09-02
+* [Miden](https://github.com/maticnetwork/miden) ⭐ 770 | 🐛 185 | 🌐 Rust | 📅 2026-09-02
 
 ### Other
 
@@ -168,4 +168,4 @@ Please have a look at [contributing.md](https://github.com/LuozhuZhang/awesome-z
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
