@@ -274,7 +274,7 @@
                 "open_issues": 16,
                 "owner": "matter-labs",
                 "repo": "awesome-zero-knowledge-proofs",
-                "stars": 5833,
+                "stars": 5834,
                 "topics": [
                   "explaining-snarks",
                   "knowledge-proofs",
@@ -304,8 +304,8 @@
                 "id": 290019239,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-02T22:33:14Z",
-                "open_issues": 274,
+                "last_commit": "2026-09-04T04:37:46Z",
+                "open_issues": 269,
                 "owner": "zcash",
                 "repo": "halo2",
                 "stars": 916,
@@ -388,7 +388,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T08:53:10.004Z",
+    "last_updated": "2026-09-04T08:48:21.011Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome zkEVM resources, libraries, tools and more",
