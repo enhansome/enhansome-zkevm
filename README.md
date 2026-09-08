@@ -113,22 +113,22 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 
 ### zkSync
 
-* [zksync v1](https://github.com/matter-labs/zksync) ⭐ 4,924 | 🐛 106 | 🌐 Rust | 📅 2026-05-08 - zksync v1 source code.
+* [zksync v1](https://github.com/matter-labs/zksync) ⭐ 4,923 | 🐛 106 | 🌐 Rust | 📅 2026-05-08 - zksync v1 source code.
 * [compiler-solidity](https://github.com/matter-labs/compiler-solidity) - zkSync v2 compiler.
 * [zksync v2 portal](https://portal.zksync.io/) - zksync v2 faucet, Goerli network.
 
 ### StarkWare
 
-* [Awesome-starknet](https://github.com/gakonst/awesome-starknet) ⭐ 1,551 | 🐛 20 | 📅 2025-01-06 - A curated list of starkNet resources.
+* [Awesome-starknet](https://github.com/gakonst/awesome-starknet) ⭐ 1,550 | 🐛 20 | 📅 2025-01-06 - A curated list of starkNet resources.
 * [Warp:transpile solidity to cairo](https://github.com/NethermindEth/warp) ⚠️ Archived
 
 ### Zero-Knowledge-Proofs
 
-* [Awesome-zkps](https://github.com/matter-labs/awesome-zero-knowledge-proofs) ⭐ 5,838 | 🐛 16 | 📅 2026-01-23 - A curated list of zkps resources.
+* [Awesome-zkps](https://github.com/matter-labs/awesome-zero-knowledge-proofs) ⭐ 5,839 | 🐛 16 | 📅 2026-01-23 - A curated list of zkps resources.
 
 ### Halo2
 
-* [Halo2 repo](https://github.com/zcash/halo2) ⭐ 917 | 🐛 269 | 🌐 Rust | 📅 2026-09-04
+* [Halo2 repo](https://github.com/zcash/halo2) ⭐ 917 | 🐛 269 | 🌐 Rust | 📅 2026-09-07
 * [Halo2 for PSE and Scroll](https://github.com/privacy-scaling-explorations/halo2) ⚠️ Archived
 * [Halo2 document](https://zcash.github.io/halo2/)
 
@@ -153,7 +153,7 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 ### Transpiler-Based zkEVM
 
 * [StarkNet](https://medium.com/starkware/starknet-alpha-2-4aa116f0ecfc)
-* [Miden](https://github.com/maticnetwork/miden) ⭐ 770 | 🐛 189 | 🌐 Rust | 📅 2026-09-07
+* [Miden](https://github.com/maticnetwork/miden) ⭐ 770 | 🐛 192 | 🌐 Rust | 📅 2026-09-08
 
 ### Other
 
@@ -168,4 +168,4 @@ Please have a look at [contributing.md](https://github.com/LuozhuZhang/awesome-z
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
