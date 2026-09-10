@@ -202,7 +202,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2025-01-06T14:19:12Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "keep-starknet-strange",
                 "repo": "awesome-starknet",
                 "stars": 1550,
@@ -304,11 +304,11 @@
                 "id": 290019239,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-08T10:56:25Z",
-                "open_issues": 269,
+                "last_commit": "2026-09-09T16:23:20Z",
+                "open_issues": 268,
                 "owner": "zcash",
                 "repo": "halo2",
-                "stars": 917,
+                "stars": 918,
                 "topics": [
                   "cryptocurrency",
                   "cryptography",
@@ -388,7 +388,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T08:55:46.234Z",
+    "last_updated": "2026-09-10T08:54:52.512Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome zkEVM resources, libraries, tools and more",
