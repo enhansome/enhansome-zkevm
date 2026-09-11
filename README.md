@@ -124,11 +124,11 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 
 ### Zero-Knowledge-Proofs
 
-* [Awesome-zkps](https://github.com/matter-labs/awesome-zero-knowledge-proofs) ⭐ 5,839 | 🐛 16 | 📅 2026-01-23 - A curated list of zkps resources.
+* [Awesome-zkps](https://github.com/matter-labs/awesome-zero-knowledge-proofs) ⭐ 5,838 | 🐛 16 | 📅 2026-01-23 - A curated list of zkps resources.
 
 ### Halo2
 
-* [Halo2 repo](https://github.com/zcash/halo2) ⭐ 918 | 🐛 268 | 🌐 Rust | 📅 2026-09-09
+* [Halo2 repo](https://github.com/zcash/halo2) ⭐ 918 | 🐛 268 | 🌐 Rust | 📅 2026-09-10
 * [Halo2 for PSE and Scroll](https://github.com/privacy-scaling-explorations/halo2) ⚠️ Archived
 * [Halo2 document](https://zcash.github.io/halo2/)
 
@@ -168,4 +168,4 @@ Please have a look at [contributing.md](https://github.com/LuozhuZhang/awesome-z
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
