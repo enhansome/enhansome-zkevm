@@ -237,7 +237,7 @@
                 "open_issues": 65,
                 "owner": "NethermindEth",
                 "repo": "warp",
-                "stars": 744,
+                "stars": 743,
                 "topics": [
                   "cairo-lang",
                   "ethereum",
@@ -274,7 +274,7 @@
                 "open_issues": 16,
                 "owner": "matter-labs",
                 "repo": "awesome-zero-knowledge-proofs",
-                "stars": 5838,
+                "stars": 5839,
                 "topics": [
                   "explaining-snarks",
                   "knowledge-proofs",
@@ -388,7 +388,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T08:52:41.427Z",
+    "last_updated": "2026-09-12T08:36:07.355Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome zkEVM resources, libraries, tools and more",
