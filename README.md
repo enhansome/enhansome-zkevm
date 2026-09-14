@@ -109,7 +109,7 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 
 ### Polygon Zero
 
-* [Plonky2](https://github.com/mir-protocol/plonky2) ⭐ 858 | 🐛 25 | 🌐 Rust | 📅 2025-07-01
+* [Plonky2](https://github.com/mir-protocol/plonky2) ⭐ 857 | 🐛 25 | 🌐 Rust | 📅 2025-07-01
 
 ### zkSync
 
@@ -119,7 +119,7 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 
 ### StarkWare
 
-* [Awesome-starknet](https://github.com/gakonst/awesome-starknet) ⭐ 1,550 | 🐛 21 | 📅 2025-01-06 - A curated list of starkNet resources.
+* [Awesome-starknet](https://github.com/gakonst/awesome-starknet) ⭐ 1,551 | 🐛 21 | 📅 2025-01-06 - A curated list of starkNet resources.
 * [Warp:transpile solidity to cairo](https://github.com/NethermindEth/warp) ⚠️ Archived
 
 ### Zero-Knowledge-Proofs
@@ -153,7 +153,7 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 ### Transpiler-Based zkEVM
 
 * [StarkNet](https://medium.com/starkware/starknet-alpha-2-4aa116f0ecfc)
-* [Miden](https://github.com/maticnetwork/miden) ⭐ 772 | 🐛 193 | 🌐 Rust | 📅 2026-09-12
+* [Miden](https://github.com/maticnetwork/miden) ⭐ 772 | 🐛 196 | 🌐 Rust | 📅 2026-09-14
 
 ### Other
 
@@ -168,4 +168,4 @@ Please have a look at [contributing.md](https://github.com/LuozhuZhang/awesome-z
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._

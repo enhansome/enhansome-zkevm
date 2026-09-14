@@ -70,7 +70,7 @@
                 "open_issues": 153,
                 "owner": "privacy-ethereum",
                 "repo": "zkevm-circuits",
-                "stars": 821,
+                "stars": 820,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:09.590Z"
@@ -147,7 +147,7 @@
                 "open_issues": 25,
                 "owner": "0xPolygonZero",
                 "repo": "plonky2",
-                "stars": 858,
+                "stars": 857,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:09.590Z"
@@ -205,7 +205,7 @@
                 "open_issues": 21,
                 "owner": "keep-starknet-strange",
                 "repo": "awesome-starknet",
-                "stars": 1550,
+                "stars": 1551,
                 "topics": [
                   "cairo",
                   "cairo-lang",
@@ -237,7 +237,7 @@
                 "open_issues": 65,
                 "owner": "NethermindEth",
                 "repo": "warp",
-                "stars": 743,
+                "stars": 742,
                 "topics": [
                   "cairo-lang",
                   "ethereum",
@@ -388,7 +388,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T09:28:02.645Z",
+    "last_updated": "2026-09-14T09:47:29.072Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome zkEVM resources, libraries, tools and more",
