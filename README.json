@@ -70,7 +70,7 @@
                 "open_issues": 153,
                 "owner": "privacy-ethereum",
                 "repo": "zkevm-circuits",
-                "stars": 820,
+                "stars": 819,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:09.590Z"
@@ -304,11 +304,11 @@
                 "id": 290019239,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-10T19:12:34Z",
-                "open_issues": 269,
+                "last_commit": "2026-09-14T10:22:40Z",
+                "open_issues": 270,
                 "owner": "zcash",
                 "repo": "halo2",
-                "stars": 918,
+                "stars": 919,
                 "topics": [
                   "cryptocurrency",
                   "cryptography",
@@ -388,7 +388,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T09:47:29.072Z",
+    "last_updated": "2026-09-15T09:22:19.782Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome zkEVM resources, libraries, tools and more",
@@ -400,7 +400,7 @@
       "open_issues": 4,
       "owner": "LuozhuZhang",
       "repo": "awesome-zkevm",
-      "stars": 470,
+      "stars": 469,
       "topics": [
         "awesome",
         "awesome-list",
