@@ -124,7 +124,7 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 
 ### Zero-Knowledge-Proofs
 
-* [Awesome-zkps](https://github.com/matter-labs/awesome-zero-knowledge-proofs) ⭐ 5,842 | 🐛 16 | 📅 2026-01-23 - A curated list of zkps resources.
+* [Awesome-zkps](https://github.com/matter-labs/awesome-zero-knowledge-proofs) ⭐ 5,843 | 🐛 16 | 📅 2026-01-23 - A curated list of zkps resources.
 
 ### Halo2
 
@@ -153,7 +153,7 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 ### Transpiler-Based zkEVM
 
 * [StarkNet](https://medium.com/starkware/starknet-alpha-2-4aa116f0ecfc)
-* [Miden](https://github.com/maticnetwork/miden) ⭐ 773 | 🐛 195 | 🌐 Rust | 📅 2026-09-18
+* [Miden](https://github.com/maticnetwork/miden) ⭐ 773 | 🐛 193 | 🌐 Rust | 📅 2026-09-18
 
 ### Other
 
@@ -164,8 +164,8 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 
 Contributions are very welcome!
 
-Please have a look at [contributing.md](https://github.com/LuozhuZhang/awesome-zkevm/blob/main/contributing.md) ⭐ 469 | 🐛 4 | 📅 2023-12-24 for guidelines.
+Please have a look at [contributing.md](https://github.com/LuozhuZhang/awesome-zkevm/blob/main/contributing.md) ⭐ 468 | 🐛 4 | 📅 2023-12-24 for guidelines.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
