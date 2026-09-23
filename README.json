@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "barryWhiteHat rollup",
-              "description": "First rollup implemented by barryWhiteHat.",
+              "description": "Early rollup prototype by barryWhiteHat.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -28,8 +28,8 @@
             },
             {
               "node_type": "item",
-              "title": "idn3 rollup",
-              "description": "iden3 rollup implement.",
+              "title": "iden3 rollup",
+              "description": "Historical rollup implementation by iden3.",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -56,8 +56,232 @@
           "children": [
             {
               "node_type": "item",
-              "title": "zkEVM-circuit",
-              "description": null,
+              "title": "OpenVM",
+              "description": "Modular zkVM framework used by Scroll's prover.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A performant and modular zkVM framework built for customization and extensibility.",
+                "homepage": "https://openvm.dev",
+                "id": 793399480,
+                "language": "Rust",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-18T15:05:58Z",
+                "open_issues": 11,
+                "owner": "openvm-org",
+                "repo": "openvm",
+                "stars": 392,
+                "topics": []
+              },
+              "first_seen": "2026-09-23T09:15:46.495Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Scroll zkVM Prover",
+              "description": "Guest programs and prover SDK for Scroll's OpenVM-based proving architecture.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Guest programs and prover SDK for Scroll's zero-knowledge rollup proof generation architecture",
+                "homepage": "https://scroll.io",
+                "id": 919320759,
+                "language": "Rust",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-22T13:43:28Z",
+                "open_issues": 11,
+                "owner": "scroll-tech",
+                "repo": "zkvm-prover",
+                "stars": 33,
+                "topics": [
+                  "ethereum",
+                  "scroll",
+                  "zkvm"
+                ]
+              },
+              "first_seen": "2026-09-23T09:15:46.495Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Scroll"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Lineth Monorepo",
+              "description": "Source for the stack powering Linea, formerly the Linea Stack.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The principal Lineth repository. Lineth is an enterprise-grade EVM layer 2 framework for developing public, permissioned or private networks. Its modular and versatile design satisfies a broad range of industry use cases.",
+                "homepage": "https://linea.build",
+                "id": 681656806,
+                "language": "Go",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-23T09:11:47Z",
+                "open_issues": 211,
+                "owner": "LFDT-Lineth",
+                "repo": "lineth-monorepo",
+                "stars": 126,
+                "topics": [
+                  "blockchain",
+                  "ethereum",
+                  "l2",
+                  "linea",
+                  "lineth",
+                  "rollup",
+                  "smart-contracts",
+                  "zk",
+                  "zkevm"
+                ]
+              },
+              "first_seen": "2026-09-23T09:15:46.495Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Linea"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Taiko Monorepo",
+              "description": "Protocol contracts, clients, and supporting tools.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A based rollup protocol for Ethereum🥁 ",
+                "homepage": "https://taiko.xyz",
+                "id": 518698474,
+                "language": "Rust",
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-23T06:04:54Z",
+                "open_issues": 28,
+                "owner": "taikoxyz",
+                "repo": "taiko-mono",
+                "stars": 4555,
+                "topics": [
+                  "based",
+                  "ethereum",
+                  "layer2",
+                  "rollup",
+                  "taiko",
+                  "zk"
+                ]
+              },
+              "first_seen": "2026-09-23T09:15:46.495Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Taiko"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ZKsync Lite",
+              "description": "Historical, non-general-purpose ZK rollup, formerly ZKsync v1; upstream marks it as deprecated.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "zkSync: trustless scaling and privacy engine for Ethereum",
+                "homepage": "https://zksync.io",
+                "id": 189174934,
+                "language": "Rust",
+                "license": "Apache-2.0",
+                "last_commit": "2026-05-08T09:04:17Z",
+                "open_issues": 106,
+                "owner": "matter-labs",
+                "repo": "zksync",
+                "stars": 4923,
+                "topics": [
+                  "team-core"
+                ]
+              },
+              "first_seen": "2026-08-28T16:34:09.590Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ZKsync Era",
+              "description": "Source for the EraVM-based ZKsync stack.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "zkSync era",
+                "homepage": null,
+                "id": 601974648,
+                "language": "Rust",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-21T21:57:44Z",
+                "open_issues": 147,
+                "owner": "matter-labs",
+                "repo": "zksync-era",
+                "stars": 3234,
+                "topics": []
+              },
+              "first_seen": "2026-09-23T09:15:46.495Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Era Solidity Compiler",
+              "description": "Solidity compiler targeting EraVM.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Solidity compiler for ZKsync.",
+                "homepage": null,
+                "id": 601961580,
+                "language": "Rust",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-23T09:14:35Z",
+                "open_issues": 4,
+                "owner": "matter-labs",
+                "repo": "era-compiler-solidity",
+                "stars": 70,
+                "topics": [
+                  "team-compiler"
+                ]
+              },
+              "first_seen": "2026-09-23T09:15:46.495Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ZKsync OS",
+              "description": "State-transition implementation with RISC-V proving; see the Developer Preview documentation for the EVM environment and network status.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Generalized RISC-V based state transition function for the ZKsync protocol",
+                "homepage": null,
+                "id": 986453846,
+                "language": "Rust",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-22T13:26:34Z",
+                "open_issues": 28,
+                "owner": "matter-labs",
+                "repo": "zksync-os",
+                "stars": 40,
+                "topics": [
+                  "zk",
+                  "zksync"
+                ]
+              },
+              "first_seen": "2026-09-23T09:15:46.495Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ZKsync"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "zkEVM Circuits",
+              "description": "Archived Halo2 circuits.",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -77,8 +301,8 @@
             },
             {
               "node_type": "item",
-              "title": "zkEVM-spec",
-              "description": null,
+              "title": "zkEVM Specifications",
+              "description": "Archived Python specifications.",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -95,18 +319,39 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:09.590Z"
+            },
+            {
+              "node_type": "item",
+              "title": "zkEVM Documentation Source",
+              "description": "Archived documentation source, replacing the unavailable GitHub Pages site.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "AppliedZKP's zkEVM Documentation ",
+                "homepage": "https://privacy-scaling-explorations.github.io/zkevm-docs/",
+                "id": 468808576,
+                "language": "Shell",
+                "license": null,
+                "last_commit": "2024-07-05T08:50:43Z",
+                "open_issues": 8,
+                "owner": "privacy-ethereum",
+                "repo": "zkevm-docs",
+                "stars": 26,
+                "topics": []
+              },
+              "first_seen": "2026-09-23T09:15:46.495Z"
             }
           ],
-          "description": null,
+          "description": "The former AppliedZKP / Privacy & Scaling Explorations repositories below now live under and are archived. They remain useful for studying the original circuit-based design.",
           "node_type": "group",
-          "title": "Scroll and Appliedzkp(PSE)"
+          "title": "PSE zkEVM - Historical"
         },
         {
           "children": [
             {
               "node_type": "item",
-              "title": "Polygon Hermez zkEVM",
-              "description": null,
+              "title": "Polygon zkEVM Prover",
+              "description": "Prover implementation from the former Polygon Hermez stack, retained as a technical reference.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -127,14 +372,14 @@
           ],
           "description": null,
           "node_type": "group",
-          "title": "Polygon Hermez"
+          "title": "Polygon zkEVM - Historical"
         },
         {
           "children": [
             {
               "node_type": "item",
               "title": "Plonky2",
-              "description": null,
+              "description": "Recursive proof library; upstream marks it as deprecated and recommends Plonky3.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -151,48 +396,60 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:09.590Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Polygon Zero"
-        },
-        {
-          "children": [
+            },
             {
               "node_type": "item",
-              "title": "zksync v1",
-              "description": "zksync v1 source code.",
+              "title": "Plonky3",
+              "description": "Polynomial IOP toolkit for building proof systems; not a complete zkEVM.",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "zkSync: trustless scaling and privacy engine for Ethereum",
-                "homepage": "https://zksync.io",
-                "id": 189174934,
+                "description": "A toolkit for polynomial IOPs (PIOPs)",
+                "homepage": null,
+                "id": 621164321,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-05-08T09:04:17Z",
-                "open_issues": 106,
-                "owner": "matter-labs",
-                "repo": "zksync",
-                "stars": 4923,
-                "topics": [
-                  "team-core"
-                ]
+                "last_commit": "2026-09-23T06:27:09Z",
+                "open_issues": 38,
+                "owner": "Plonky3",
+                "repo": "Plonky3",
+                "stars": 848,
+                "topics": []
               },
-              "first_seen": "2026-08-28T16:34:09.590Z"
+              "first_seen": "2026-09-23T09:15:46.495Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Polygon Zero zkEVM",
+              "description": "Libraries for proving Ethereum blocks using the Plonky2-based Type 1 zkEVM.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 754776262,
+                "language": "Rust",
+                "license": "Apache-2.0",
+                "last_commit": "2025-05-02T17:33:24Z",
+                "open_issues": 89,
+                "owner": "0xPolygonZero",
+                "repo": "zk_evm",
+                "stars": 100,
+                "topics": []
+              },
+              "first_seen": "2026-09-23T09:15:46.495Z"
             }
           ],
           "description": null,
           "node_type": "group",
-          "title": "zkSync"
+          "title": "Polygon Zero and Plonky"
         },
         {
           "children": [
             {
               "node_type": "item",
-              "title": "Awesome-starknet",
-              "description": "A curated list of starkNet resources.",
+              "title": "Awesome Starknet",
+              "description": "Curated Starknet resources, libraries, and tools.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -223,8 +480,34 @@
             },
             {
               "node_type": "item",
-              "title": "Warp:transpile solidity to cairo",
-              "description": null,
+              "title": "Miden VM",
+              "description": "STARK-based virtual machine, formerly hosted under .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "STARK-based virtual machine",
+                "homepage": "https://0xmiden.github.io/miden-vm/",
+                "id": 404963106,
+                "language": "Rust",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-23T08:39:22Z",
+                "open_issues": 200,
+                "owner": "0xMiden",
+                "repo": "miden-vm",
+                "stars": 774,
+                "topics": [
+                  "cryptography",
+                  "stark",
+                  "virtual-machine",
+                  "zero-knowledge"
+                ]
+              },
+              "first_seen": "2026-09-23T09:15:46.495Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Warp",
+              "description": "Archived Solidity-to-Cairo compiler; historical research rather than a maintained integration path.",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -250,11 +533,40 @@
                 ]
               },
               "first_seen": "2026-08-28T16:34:09.590Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Cairo VM",
+              "description": "Rust implementation of the Cairo VM used in the Starknet ecosystem.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "cairo-vm is a Rust implementation of the Cairo VM. Cairo (CPU Algebraic Intermediate Representation) is a programming language for writing provable programs, where one party can prove to another that a certain computation was executed correctly without the need for this party to re-execute the same program.",
+                "homepage": "https://lambdaclass.github.io/cairo-vm",
+                "id": 485838614,
+                "language": "Rust",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-15T12:17:48Z",
+                "open_issues": 47,
+                "owner": "starkware-libs",
+                "repo": "cairo-vm",
+                "stars": 587,
+                "topics": [
+                  "blockchain",
+                  "compiler",
+                  "cryptography",
+                  "programming-language",
+                  "rust",
+                  "stark",
+                  "zkp"
+                ]
+              },
+              "first_seen": "2026-09-23T09:15:46.495Z"
             }
           ],
-          "description": null,
+          "description": "These systems are relevant to ZK research but use their own virtual machines rather than implementing the EVM.",
           "node_type": "group",
-          "title": "StarkWare"
+          "title": "Related Non-EVM Systems"
         },
         {
           "children": [
@@ -304,8 +616,8 @@
                 "id": 290019239,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-21T10:22:53Z",
-                "open_issues": 276,
+                "last_commit": "2026-09-22T10:22:50Z",
+                "open_issues": 277,
                 "owner": "zcash",
                 "repo": "halo2",
                 "stars": 919,
@@ -320,8 +632,8 @@
             },
             {
               "node_type": "item",
-              "title": "Halo2 for PSE and Scroll",
-              "description": null,
+              "title": "PSE Halo2 Fork",
+              "description": "Archived fork used by the historical PSE / Scroll circuit work.",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -382,22 +694,355 @@
           "description": null,
           "node_type": "group",
           "title": "zkp Acceleration"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Light Client Proof of Concept",
+              "description": "Historical experiment, pinned to the version before its removal from the PSE repository.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": null,
+                "homepage": "https://privacy-scaling-explorations.github.io/zkevm-circuits/",
+                "id": 380947649,
+                "language": "Rust",
+                "license": "NOASSERTION",
+                "last_commit": "2024-07-05T08:44:26Z",
+                "open_issues": 153,
+                "owner": "privacy-ethereum",
+                "repo": "zkevm-circuits",
+                "stars": 819,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T16:34:09.590Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Proof of Exploit",
+              "description": "Archived application using PSE zkEVM to prove knowledge of smart-contract vulnerabilities.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "Prove knowledge of smart contract bugs using zkEVM",
+                "homepage": "https://www.youtube.com/watch?v=MRFe2IZ_AE4",
+                "id": 613465601,
+                "language": "Rust",
+                "license": null,
+                "last_commit": "2024-09-20T16:23:45Z",
+                "open_issues": 0,
+                "owner": "proof-of-exploit",
+                "repo": "cli",
+                "stars": 43,
+                "topics": [
+                  "anvil",
+                  "rust",
+                  "zkevm"
+                ]
+              },
+              "first_seen": "2026-09-23T09:15:46.495Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "zkEVM Applications"
         }
       ],
       "title": "Resources - libraries, tools"
+    },
+    {
+      "description": "Known public pages and repositories that link to this list, checked on September 23, 2026. Entries describe the specific reference; inclusion alone does not imply endorsement or a software dependency. Translations and copies of the same material are grouped where identified. This directory is non-exhaustive; contributions with a direct reference are welcome.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Gevulot Documentation — zkVMs",
+              "description": "Links to this list when introducing zkEVM implementations; the link points to the documentation source.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Documentation for the Gevulot project",
+                "homepage": "https://gevulot.com",
+                "id": 713881674,
+                "language": null,
+                "license": null,
+                "last_commit": "2025-03-19T12:04:25Z",
+                "open_issues": 4,
+                "owner": "gevulotnetwork",
+                "repo": "gevulot-docs",
+                "stars": 4,
+                "topics": []
+              },
+              "first_seen": "2026-09-23T09:15:46.495Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Official and Project Documentation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "BlocSoc IIT Delhi — ZK Bootcamp",
+              "description": "Uses this list as a building resource in the week on zkEVMs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 782440456,
+                "language": null,
+                "license": null,
+                "last_commit": "2025-03-18T10:46:15Z",
+                "open_issues": 0,
+                "owner": "blocsoc-iitd",
+                "repo": "zkbootcamp",
+                "stars": 13,
+                "topics": []
+              },
+              "first_seen": "2026-09-23T09:15:46.495Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Education and Learning Resources"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Blockchain Development Resources",
+              "description": "Includes this list among blockchain-development learning resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The contents of this repository will help you launch a career in Blockchain development. How to deploy Smart contracts on Ethereum, build DApps, DeFi, DAO, NFT and Token protocol.",
+                "homepage": "https://blockchain-development-resources.netlify.app/",
+                "id": 400041672,
+                "language": "Markdown",
+                "license": "CC0-1.0",
+                "last_commit": "2025-02-02T22:48:26Z",
+                "open_issues": 14,
+                "owner": "frankiefab100",
+                "repo": "Blockchain-Development-Resources",
+                "stars": 1571,
+                "topics": [
+                  "awesome-list",
+                  "awesome-readme",
+                  "bitcoin",
+                  "blockchain",
+                  "dapps",
+                  "decentralized-applications",
+                  "defi",
+                  "distributed-ledger",
+                  "ethereum",
+                  "hardhat",
+                  "metamask",
+                  "nft",
+                  "polygon",
+                  "smartcontracts",
+                  "solana",
+                  "solidity",
+                  "truffle",
+                  "vyper",
+                  "web3",
+                  "web3js"
+                ]
+              },
+              "first_seen": "2026-09-23T09:15:46.495Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Library of Ethereum",
+              "description": "Includes this list in its ZKP resource collection.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Curated Collection of Ethereum Ecosystem Resources",
+                "homepage": null,
+                "id": 499590305,
+                "language": null,
+                "license": "CC0-1.0",
+                "last_commit": "2023-12-26T18:22:57Z",
+                "open_issues": 2,
+                "owner": "arpitingle",
+                "repo": "Library-of-Ethereum",
+                "stars": 278,
+                "topics": [
+                  "awesome-list",
+                  "blockchain",
+                  "cairo",
+                  "cryptography",
+                  "defi",
+                  "ethereum",
+                  "evm",
+                  "layer2",
+                  "mev",
+                  "security",
+                  "smart-contracts",
+                  "solidity",
+                  "vyper",
+                  "zkp"
+                ]
+              },
+              "first_seen": "2026-09-23T09:15:46.495Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Blockchain Security Library — ZK",
+              "description": "Includes this list alongside ZK research and security resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A library of blockchain security resources for various categories in blockchain.",
+                "homepage": null,
+                "id": 784996257,
+                "language": null,
+                "license": null,
+                "last_commit": "2025-04-16T17:54:29Z",
+                "open_issues": 1,
+                "owner": "0xNazgul",
+                "repo": "Blockchain-Security-Library",
+                "stars": 190,
+                "topics": [
+                  "blockchain",
+                  "security",
+                  "smart-contracts"
+                ]
+              },
+              "first_seen": "2026-09-23T09:15:46.495Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Ethereum Knowledge Notes",
+              "description": "Includes this list in personal Ethereum reading notes, preserved in an archived knowledge collection.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Everything I know (archived in 2024)",
+                "homepage": "https://wiki.nikiv.dev",
+                "id": 826447937,
+                "language": "JavaScript",
+                "license": null,
+                "last_commit": "2024-07-09T18:43:28Z",
+                "open_issues": 0,
+                "owner": "past-nikiv",
+                "repo": "knowledge",
+                "stars": 38,
+                "topics": [
+                  "notes",
+                  "wiki"
+                ]
+              },
+              "first_seen": "2026-09-23T09:15:46.495Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ZK Rollups Directory — Resource Catalog",
+              "description": "Includes Awesome zkEVM in the directory's resource data; linked here as source evidence.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": "https://zkrollups.xyz",
+                "id": 433275429,
+                "language": "JavaScript",
+                "license": "Apache-2.0",
+                "last_commit": "2022-08-29T10:03:17Z",
+                "open_issues": 10,
+                "owner": "zkrollups",
+                "repo": "zkr-app-directory",
+                "stars": 19,
+                "topics": []
+              },
+              "first_seen": "2026-09-23T09:15:46.495Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Identity",
+              "description": "Links to this list in its ZK resource section.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A curated list of resources related to identity, privacy, and reputation",
+                "homepage": null,
+                "id": 511371375,
+                "language": null,
+                "license": "MIT",
+                "last_commit": "2022-07-24T20:37:24Z",
+                "open_issues": 0,
+                "owner": "telnet193",
+                "repo": "awesome-identity",
+                "stars": 10,
+                "topics": []
+              },
+              "first_seen": "2026-09-23T09:15:46.495Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Blockchain Developer Toolbox",
+              "description": "Includes this list in its developer-resource collection.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 616172132,
+                "language": null,
+                "license": null,
+                "last_commit": "2023-03-19T20:46:46Z",
+                "open_issues": 0,
+                "owner": "berkcicekk",
+                "repo": "Blockchain-Developer-Toolbox",
+                "stars": 7,
+                "topics": []
+              },
+              "first_seen": "2026-09-23T09:15:46.495Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Links for ZK",
+              "description": "Includes this list among ZK learning links.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "I want to share the resources that I used to learn and prepare the challenge of #DaysOfZeroKnowledge",
+                "homepage": null,
+                "id": 508054767,
+                "language": null,
+                "license": null,
+                "last_commit": "2023-01-04T22:43:51Z",
+                "open_issues": 0,
+                "owner": "hasselalcala",
+                "repo": "Awesome-Links-For-ZK",
+                "stars": 6,
+                "topics": []
+              },
+              "first_seen": "2026-09-23T09:15:46.495Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Community Collections and Publications"
+        }
+      ],
+      "title": "Referenced By"
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T09:15:40.084Z",
+    "last_updated": "2026-09-23T09:15:46.495Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome zkEVM resources, libraries, tools and more",
       "homepage": null,
       "id": 480656314,
       "language": null,
-      "license": null,
-      "last_commit": "2023-12-24T16:04:37Z",
-      "open_issues": 4,
+      "license": "CC0-1.0",
+      "last_commit": "2026-09-23T03:35:28Z",
+      "open_issues": 0,
       "owner": "LuozhuZhang",
       "repo": "awesome-zkevm",
       "stars": 468,
@@ -415,7 +1060,7 @@
         "zkevm"
       ]
     },
-    "original_repository_sha": "c62dd7eee57f7fb8252b58f594b83bae15de80c8",
+    "original_repository_sha": "678fb20ccdd2e7b2501fec04ad3b27b7fa9444a2",
     "enhanced_repository": "enhansome/enhansome-zkevm",
     "enhanced_repository_description": null,
     "title": "Awesome zkEVM with stars"
