@@ -106,18 +106,18 @@ Ecosystem and link maintenance: **September 23, 2026**. Historical resources are
 
 ### Scroll
 
-* [OpenVM](https://github.com/openvm-org/openvm) ⭐ 393 | 🐛 12 | 🌐 Rust | 📅 2026-09-25 - Modular zkVM framework used by Scroll's prover.
+* [OpenVM](https://github.com/openvm-org/openvm) ⭐ 393 | 🐛 14 | 🌐 Rust | 📅 2026-09-25 - Modular zkVM framework used by Scroll's prover.
 * [Scroll zkVM Prover](https://github.com/scroll-tech/zkvm-prover) ⭐ 33 | 🐛 11 | 🌐 Rust | 📅 2026-09-28 - Guest programs and prover SDK for Scroll's OpenVM-based proving architecture.
 * [Scroll Documentation](https://docs.scroll.io/) - Developer guides and protocol documentation.
 
 ### Linea
 
-* [Lineth Monorepo](https://github.com/LFDT-Lineth/lineth-monorepo) ⭐ 126 | 🐛 222 | 🌐 Go | 📅 2026-09-28 - Source for the stack powering Linea, formerly the Linea Stack.
+* [Lineth Monorepo](https://github.com/LFDT-Lineth/lineth-monorepo) ⭐ 126 | 🐛 227 | 🌐 Go | 📅 2026-09-29 - Source for the stack powering Linea, formerly the Linea Stack.
 * [Linea Documentation](https://docs.linea.build/) - Developer and protocol documentation for the Linea zkEVM network and its underlying Lineth stack.
 
 ### Taiko
 
-* [Taiko Monorepo](https://github.com/taikoxyz/taiko-mono) ⭐ 4,556 | 🐛 28 | 🌐 Rust | 📅 2026-09-28 - Protocol contracts, clients, and supporting tools.
+* [Taiko Monorepo](https://github.com/taikoxyz/taiko-mono) ⭐ 4,556 | 🐛 25 | 🌐 Rust | 📅 2026-09-29 - Protocol contracts, clients, and supporting tools.
 * [Taiko Documentation](https://docs.taiko.xyz/) - Guides and protocol references for Taiko's Ethereum-equivalent based rollup.
 
 ### ZKsync
@@ -146,7 +146,7 @@ The former AppliedZKP / Privacy & Scaling Explorations repositories below now li
 ### Polygon Zero and Plonky
 
 * [Plonky2](https://github.com/0xPolygonZero/plonky2) ⭐ 857 | 🐛 26 | 🌐 Rust | 📅 2025-07-01 - Recursive proof library; upstream marks it as deprecated and recommends Plonky3.
-* [Plonky3](https://github.com/Plonky3/Plonky3) ⭐ 851 | 🐛 35 | 🌐 Rust | 📅 2026-09-28 - Polynomial IOP toolkit for building proof systems; not a complete zkEVM.
+* [Plonky3](https://github.com/Plonky3/Plonky3) ⭐ 852 | 🐛 42 | 🌐 Rust | 📅 2026-09-29 - Polynomial IOP toolkit for building proof systems; not a complete zkEVM.
 * [Polygon Zero zkEVM](https://github.com/0xPolygonZero/zk_evm) ⭐ 100 | 🐛 89 | 🌐 Rust | 📅 2025-05-02 - Libraries for proving Ethereum blocks using the Plonky2-based Type 1 zkEVM.
 
 ### Related Non-EVM Systems
@@ -154,17 +154,17 @@ The former AppliedZKP / Privacy & Scaling Explorations repositories below now li
 These systems are relevant to ZK research but use their own virtual machines rather than implementing the EVM.
 
 * [Awesome Starknet](https://github.com/keep-starknet-strange/awesome-starknet) ⭐ 1,551 | 🐛 21 | 📅 2025-01-06 - Curated Starknet resources, libraries, and tools.
-* [Miden VM](https://github.com/0xMiden/miden-vm) ⭐ 775 | 🐛 206 | 🌐 Rust | 📅 2026-09-28 - STARK-based virtual machine, formerly hosted under `maticnetwork/miden`.
+* [Miden VM](https://github.com/0xMiden/miden-vm) ⭐ 775 | 🐛 210 | 🌐 Rust | 📅 2026-09-29 - STARK-based virtual machine, formerly hosted under `maticnetwork/miden`.
 * [Warp](https://github.com/NethermindEth/warp) ⚠️ Archived - Archived Solidity-to-Cairo compiler; historical research rather than a maintained integration path.
-* [Cairo VM](https://github.com/starkware-libs/cairo-vm) ⭐ 587 | 🐛 47 | 🌐 Rust | 📅 2026-09-23 - Rust implementation of the Cairo VM used in the Starknet ecosystem.
+* [Cairo VM](https://github.com/starkware-libs/cairo-vm) ⭐ 587 | 🐛 45 | 🌐 Rust | 📅 2026-09-29 - Rust implementation of the Cairo VM used in the Starknet ecosystem.
 
 ### Zero-Knowledge-Proofs
 
-* [Awesome-zkps](https://github.com/matter-labs/awesome-zero-knowledge-proofs) ⭐ 5,841 | 🐛 16 | 📅 2026-01-23 - A curated list of zkps resources.
+* [Awesome-zkps](https://github.com/matter-labs/awesome-zero-knowledge-proofs) ⭐ 5,842 | 🐛 17 | 📅 2026-01-23 - A curated list of zkps resources.
 
 ### Halo2
 
-* [Halo2 repo](https://github.com/zcash/halo2) ⭐ 919 | 🐛 280 | 🌐 Rust | 📅 2026-09-26
+* [Halo2 repo](https://github.com/zcash/halo2) ⭐ 919 | 🐛 277 | 🌐 Rust | 📅 2026-09-29
 * [PSE Halo2 Fork](https://github.com/privacy-ethereum/halo2) ⚠️ Archived - Archived fork used by the historical PSE / Scroll circuit work.
 * [Halo2 document](https://zcash.github.io/halo2/)
 
@@ -242,4 +242,4 @@ Please open an issue or pull request for broken links, project renames, archived
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
