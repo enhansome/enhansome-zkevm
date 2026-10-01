@@ -112,12 +112,12 @@ Ecosystem and link maintenance: **September 23, 2026**. Historical resources are
 
 ### Linea
 
-* [Lineth Monorepo](https://github.com/LFDT-Lineth/lineth-monorepo) ⭐ 126 | 🐛 229 | 🌐 Go | 📅 2026-09-30 - Source for the stack powering Linea, formerly the Linea Stack.
+* [Lineth Monorepo](https://github.com/LFDT-Lineth/lineth-monorepo) ⭐ 126 | 🐛 236 | 🌐 Go | 📅 2026-10-01 - Source for the stack powering Linea, formerly the Linea Stack.
 * [Linea Documentation](https://docs.linea.build/) - Developer and protocol documentation for the Linea zkEVM network and its underlying Lineth stack.
 
 ### Taiko
 
-* [Taiko Monorepo](https://github.com/taikoxyz/taiko-mono) ⭐ 4,557 | 🐛 26 | 🌐 Rust | 📅 2026-09-30 - Protocol contracts, clients, and supporting tools.
+* [Taiko Monorepo](https://github.com/taikoxyz/taiko-mono) ⭐ 4,557 | 🐛 33 | 🌐 Rust | 📅 2026-10-01 - Protocol contracts, clients, and supporting tools.
 * [Taiko Documentation](https://docs.taiko.xyz/) - Guides and protocol references for Taiko's Ethereum-equivalent based rollup.
 
 ### ZKsync
@@ -146,25 +146,25 @@ The former AppliedZKP / Privacy & Scaling Explorations repositories below now li
 ### Polygon Zero and Plonky
 
 * [Plonky2](https://github.com/0xPolygonZero/plonky2) ⭐ 858 | 🐛 26 | 🌐 Rust | 📅 2025-07-01 - Recursive proof library; upstream marks it as deprecated and recommends Plonky3.
-* [Plonky3](https://github.com/Plonky3/Plonky3) ⭐ 852 | 🐛 45 | 🌐 Rust | 📅 2026-09-29 - Polynomial IOP toolkit for building proof systems; not a complete zkEVM.
+* [Plonky3](https://github.com/Plonky3/Plonky3) ⭐ 852 | 🐛 45 | 🌐 Rust | 📅 2026-09-30 - Polynomial IOP toolkit for building proof systems; not a complete zkEVM.
 * [Polygon Zero zkEVM](https://github.com/0xPolygonZero/zk_evm) ⭐ 100 | 🐛 89 | 🌐 Rust | 📅 2025-05-02 - Libraries for proving Ethereum blocks using the Plonky2-based Type 1 zkEVM.
 
 ### Related Non-EVM Systems
 
 These systems are relevant to ZK research but use their own virtual machines rather than implementing the EVM.
 
-* [Awesome Starknet](https://github.com/keep-starknet-strange/awesome-starknet) ⭐ 1,552 | 🐛 21 | 📅 2025-01-06 - Curated Starknet resources, libraries, and tools.
-* [Miden VM](https://github.com/0xMiden/miden-vm) ⭐ 775 | 🐛 202 | 🌐 Rust | 📅 2026-09-29 - STARK-based virtual machine, formerly hosted under `maticnetwork/miden`.
+* [Awesome Starknet](https://github.com/keep-starknet-strange/awesome-starknet) ⭐ 1,551 | 🐛 21 | 📅 2025-01-06 - Curated Starknet resources, libraries, and tools.
+* [Miden VM](https://github.com/0xMiden/miden-vm) ⭐ 775 | 🐛 204 | 🌐 Rust | 📅 2026-10-01 - STARK-based virtual machine, formerly hosted under `maticnetwork/miden`.
 * [Warp](https://github.com/NethermindEth/warp) ⚠️ Archived - Archived Solidity-to-Cairo compiler; historical research rather than a maintained integration path.
-* [Cairo VM](https://github.com/starkware-libs/cairo-vm) ⭐ 587 | 🐛 43 | 🌐 Rust | 📅 2026-09-30 - Rust implementation of the Cairo VM used in the Starknet ecosystem.
+* [Cairo VM](https://github.com/starkware-libs/cairo-vm) ⭐ 587 | 🐛 46 | 🌐 Rust | 📅 2026-09-30 - Rust implementation of the Cairo VM used in the Starknet ecosystem.
 
 ### Zero-Knowledge-Proofs
 
-* [Awesome-zkps](https://github.com/matter-labs/awesome-zero-knowledge-proofs) ⭐ 5,842 | 🐛 17 | 📅 2026-01-23 - A curated list of zkps resources.
+* [Awesome-zkps](https://github.com/matter-labs/awesome-zero-knowledge-proofs) ⭐ 5,843 | 🐛 17 | 📅 2026-01-23 - A curated list of zkps resources.
 
 ### Halo2
 
-* [Halo2 repo](https://github.com/zcash/halo2) ⭐ 919 | 🐛 271 | 🌐 Rust | 📅 2026-09-29
+* [Halo2 repo](https://github.com/zcash/halo2) ⭐ 919 | 🐛 270 | 🌐 Rust | 📅 2026-09-29
 * [PSE Halo2 Fork](https://github.com/privacy-ethereum/halo2) ⚠️ Archived - Archived fork used by the historical PSE / Scroll circuit work.
 * [Halo2 document](https://zcash.github.io/halo2/)
 
@@ -242,4 +242,4 @@ Please open an issue or pull request for broken links, project renames, archived
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
