@@ -67,10 +67,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T18:09:48Z",
-                "open_issues": 15,
+                "open_issues": 16,
                 "owner": "openvm-org",
                 "repo": "openvm",
-                "stars": 393,
+                "stars": 394,
                 "topics": []
               },
               "first_seen": "2026-09-23T09:15:46.495Z"
@@ -119,8 +119,8 @@
                 "id": 681656806,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T11:12:21Z",
-                "open_issues": 242,
+                "last_commit": "2026-10-06T10:36:30Z",
+                "open_issues": 241,
                 "owner": "LFDT-Lineth",
                 "repo": "lineth-monorepo",
                 "stars": 126,
@@ -157,8 +157,8 @@
                 "id": 518698474,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-05T10:21:13Z",
-                "open_issues": 29,
+                "last_commit": "2026-10-06T11:06:16Z",
+                "open_issues": 32,
                 "owner": "taikoxyz",
                 "repo": "taiko-mono",
                 "stars": 4554,
@@ -196,7 +196,7 @@
                 "open_issues": 106,
                 "owner": "matter-labs",
                 "repo": "zksync",
-                "stars": 4922,
+                "stars": 4921,
                 "topics": [
                   "team-core"
                 ]
@@ -219,7 +219,7 @@
                 "open_issues": 152,
                 "owner": "matter-labs",
                 "repo": "zksync-era",
-                "stars": 3234,
+                "stars": 3232,
                 "topics": []
               },
               "first_seen": "2026-09-23T09:15:46.495Z"
@@ -236,8 +236,8 @@
                 "id": 601961580,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-23T13:31:46Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-05T12:31:39Z",
+                "open_issues": 6,
                 "owner": "matter-labs",
                 "repo": "era-compiler-solidity",
                 "stars": 70,
@@ -260,7 +260,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-05T08:46:11Z",
-                "open_issues": 30,
+                "open_issues": 28,
                 "owner": "matter-labs",
                 "repo": "zksync-os",
                 "stars": 40,
@@ -409,8 +409,8 @@
                 "id": 621164321,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T11:02:51Z",
-                "open_issues": 37,
+                "last_commit": "2026-10-05T18:40:08Z",
+                "open_issues": 34,
                 "owner": "Plonky3",
                 "repo": "Plonky3",
                 "stars": 853,
@@ -490,8 +490,8 @@
                 "id": 404963106,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T09:21:39Z",
-                "open_issues": 220,
+                "last_commit": "2026-10-06T10:44:45Z",
+                "open_issues": 210,
                 "owner": "0xMiden",
                 "repo": "miden-vm",
                 "stars": 776,
@@ -870,7 +870,7 @@
                 "open_issues": 2,
                 "owner": "arpitingle",
                 "repo": "Library-of-Ethereum",
-                "stars": 278,
+                "stars": 277,
                 "topics": [
                   "awesome-list",
                   "blockchain",
@@ -1033,7 +1033,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T11:23:00.496Z",
+    "last_updated": "2026-10-06T11:07:02.301Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome zkEVM resources, libraries, tools and more",
