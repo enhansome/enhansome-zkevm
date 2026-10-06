@@ -112,7 +112,7 @@ Ecosystem and link maintenance: **September 23, 2026**. Historical resources are
 
 ### Linea
 
-* [Lineth Monorepo](https://github.com/LFDT-Lineth/lineth-monorepo) ⭐ 126 | 🐛 241 | 🌐 Go | 📅 2026-10-06 - Source for the stack powering Linea, formerly the Linea Stack.
+* [Lineth Monorepo](https://github.com/LFDT-Lineth/lineth-monorepo) ⭐ 126 | 🐛 242 | 🌐 Go | 📅 2026-10-06 - Source for the stack powering Linea, formerly the Linea Stack.
 * [Linea Documentation](https://docs.linea.build/) - Developer and protocol documentation for the Linea zkEVM network and its underlying Lineth stack.
 
 ### Taiko

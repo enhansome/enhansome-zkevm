@@ -119,8 +119,8 @@
                 "id": 681656806,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T10:36:30Z",
-                "open_issues": 241,
+                "last_commit": "2026-10-06T11:09:43Z",
+                "open_issues": 242,
                 "owner": "LFDT-Lineth",
                 "repo": "lineth-monorepo",
                 "stars": 126,
@@ -157,7 +157,7 @@
                 "id": 518698474,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-06T11:06:16Z",
+                "last_commit": "2026-10-06T11:10:40Z",
                 "open_issues": 32,
                 "owner": "taikoxyz",
                 "repo": "taiko-mono",
@@ -1033,7 +1033,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:07:02.301Z",
+    "last_updated": "2026-10-06T11:12:28.195Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome zkEVM resources, libraries, tools and more",
