@@ -157,7 +157,7 @@
                 "id": 518698474,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-21T21:41:49Z",
+                "last_commit": "2026-10-24T15:17:25Z",
                 "open_issues": 33,
                 "owner": "taikoxyz",
                 "repo": "taiko-mono",
@@ -409,8 +409,8 @@
                 "id": 621164321,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-24T03:45:40Z",
-                "open_issues": 35,
+                "last_commit": "2026-10-24T16:36:22Z",
+                "open_issues": 34,
                 "owner": "Plonky3",
                 "repo": "Plonky3",
                 "stars": 858,
@@ -490,8 +490,8 @@
                 "id": 404963106,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T16:52:13Z",
-                "open_issues": 191,
+                "last_commit": "2026-10-24T18:09:39Z",
+                "open_issues": 192,
                 "owner": "0xMiden",
                 "repo": "miden-vm",
                 "stars": 777,
@@ -586,7 +586,7 @@
                 "open_issues": 0,
                 "owner": "matter-labs",
                 "repo": "awesome-zero-knowledge-proofs",
-                "stars": 5848,
+                "stars": 5849,
                 "topics": [
                   "explaining-snarks",
                   "knowledge-proofs",
@@ -1033,7 +1033,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T08:49:39.704Z",
+    "last_updated": "2026-10-25T09:05:46.295Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome zkEVM resources, libraries, tools and more",
