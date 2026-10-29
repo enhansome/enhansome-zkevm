@@ -66,7 +66,7 @@
                 "id": 793399480,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T21:37:31Z",
+                "last_commit": "2026-10-28T15:57:09Z",
                 "open_issues": 13,
                 "owner": "openvm-org",
                 "repo": "openvm",
@@ -119,8 +119,8 @@
                 "id": 681656806,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-28T10:23:50Z",
-                "open_issues": 244,
+                "last_commit": "2026-10-29T10:36:23Z",
+                "open_issues": 234,
                 "owner": "LFDT-Lineth",
                 "repo": "lineth-monorepo",
                 "stars": 126,
@@ -157,8 +157,8 @@
                 "id": 518698474,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-28T10:17:07Z",
-                "open_issues": 32,
+                "last_commit": "2026-10-29T10:46:12Z",
+                "open_issues": 36,
                 "owner": "taikoxyz",
                 "repo": "taiko-mono",
                 "stars": 4547,
@@ -237,7 +237,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-26T11:07:23Z",
-                "open_issues": 7,
+                "open_issues": 9,
                 "owner": "matter-labs",
                 "repo": "era-compiler-solidity",
                 "stars": 69,
@@ -392,7 +392,7 @@
                 "open_issues": 29,
                 "owner": "Plonky3",
                 "repo": "Plonky3",
-                "stars": 860,
+                "stars": 862,
                 "topics": []
               },
               "first_seen": "2026-09-23T09:15:46.495Z"
@@ -413,7 +413,7 @@
                 "open_issues": 26,
                 "owner": "0xPolygonZero",
                 "repo": "plonky2",
-                "stars": 858,
+                "stars": 859,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:09.590Z"
@@ -490,8 +490,8 @@
                 "id": 404963106,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-28T10:28:56Z",
-                "open_issues": 195,
+                "last_commit": "2026-10-28T23:50:30Z",
+                "open_issues": 186,
                 "owner": "0xMiden",
                 "repo": "miden-vm",
                 "stars": 778,
@@ -1033,7 +1033,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T10:30:24.569Z",
+    "last_updated": "2026-10-29T10:50:41.780Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome zkEVM resources, libraries, tools and more",
