@@ -67,10 +67,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-28T15:57:09Z",
-                "open_issues": 14,
+                "open_issues": 15,
                 "owner": "openvm-org",
                 "repo": "openvm",
-                "stars": 398,
+                "stars": 399,
                 "topics": []
               },
               "first_seen": "2026-09-23T09:15:46.495Z"
@@ -119,8 +119,8 @@
                 "id": 681656806,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T16:07:20Z",
-                "open_issues": 231,
+                "last_commit": "2026-11-01T01:41:01Z",
+                "open_issues": 227,
                 "owner": "LFDT-Lineth",
                 "repo": "lineth-monorepo",
                 "stars": 127,
@@ -157,11 +157,11 @@
                 "id": 518698474,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T12:52:24Z",
-                "open_issues": 31,
+                "last_commit": "2026-11-01T09:46:30Z",
+                "open_issues": 34,
                 "owner": "taikoxyz",
                 "repo": "taiko-mono",
-                "stars": 4548,
+                "stars": 4547,
                 "topics": [
                   "based",
                   "ethereum",
@@ -196,7 +196,7 @@
                 "open_issues": 106,
                 "owner": "matter-labs",
                 "repo": "zksync",
-                "stars": 4917,
+                "stars": 4916,
                 "topics": [
                   "team-core"
                 ]
@@ -215,11 +215,11 @@
                 "id": 601974648,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T23:32:27Z",
+                "last_commit": "2026-11-01T02:17:05Z",
                 "open_issues": 153,
                 "owner": "matter-labs",
                 "repo": "zksync-era",
-                "stars": 3224,
+                "stars": 3223,
                 "topics": []
               },
               "first_seen": "2026-09-23T09:15:46.495Z"
@@ -294,7 +294,7 @@
                 "open_issues": 153,
                 "owner": "privacy-ethereum",
                 "repo": "zkevm-circuits",
-                "stars": 817,
+                "stars": 818,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:09.590Z"
@@ -462,7 +462,7 @@
                 "open_issues": 21,
                 "owner": "keep-starknet-strange",
                 "repo": "awesome-starknet",
-                "stars": 1551,
+                "stars": 1550,
                 "topics": [
                   "cairo",
                   "cairo-lang",
@@ -490,11 +490,11 @@
                 "id": 404963106,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T14:52:45Z",
-                "open_issues": 185,
+                "last_commit": "2026-11-01T03:13:12Z",
+                "open_issues": 186,
                 "owner": "0xMiden",
                 "repo": "miden-vm",
-                "stars": 779,
+                "stars": 778,
                 "topics": [
                   "cryptography",
                   "stark",
@@ -620,7 +620,7 @@
                 "open_issues": 271,
                 "owner": "zcash",
                 "repo": "halo2",
-                "stars": 929,
+                "stars": 930,
                 "topics": [
                   "cryptocurrency",
                   "cryptography",
@@ -713,7 +713,7 @@
                 "open_issues": 153,
                 "owner": "privacy-ethereum",
                 "repo": "zkevm-circuits",
-                "stars": 817,
+                "stars": 818,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:34:09.590Z"
@@ -828,7 +828,7 @@
                 "open_issues": 14,
                 "owner": "frankiefab100",
                 "repo": "Blockchain-Development-Resources",
-                "stars": 1575,
+                "stars": 1574,
                 "topics": [
                   "awesome-list",
                   "awesome-readme",
@@ -1033,7 +1033,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T10:18:48.595Z",
+    "last_updated": "2026-11-01T11:12:50.177Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome zkEVM resources, libraries, tools and more",
