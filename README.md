@@ -112,19 +112,19 @@ Ecosystem and link maintenance: **September 23, 2026**. Historical resources are
 
 ### Linea
 
-* [Lineth Monorepo](https://github.com/LFDT-Lineth/lineth-monorepo) ⭐ 127 | 🐛 213 | 🌐 Go | 📅 2026-11-05 - Source for the stack powering Linea, formerly the Linea Stack.
+* [Lineth Monorepo](https://github.com/LFDT-Lineth/lineth-monorepo) ⭐ 127 | 🐛 216 | 🌐 Go | 📅 2026-11-06 - Source for the stack powering Linea, formerly the Linea Stack.
 * [Linea Documentation](https://docs.linea.build/) - Developer and protocol documentation for the Linea zkEVM network and its underlying Lineth stack.
 
 ### Taiko
 
-* [Taiko Monorepo](https://github.com/taikoxyz/taiko-mono) ⭐ 4,547 | 🐛 29 | 🌐 Rust | 📅 2026-11-05 - Protocol contracts, clients, and supporting tools.
+* [Taiko Monorepo](https://github.com/taikoxyz/taiko-mono) ⭐ 4,547 | 🐛 28 | 🌐 Rust | 📅 2026-11-06 - Protocol contracts, clients, and supporting tools.
 * [Taiko Documentation](https://docs.taiko.xyz/) - Guides and protocol references for Taiko's Ethereum-equivalent based rollup.
 
 ### ZKsync
 
 * [ZKsync Lite](https://github.com/matter-labs/zksync) ⭐ 4,915 | 🐛 106 | 🌐 Rust | 📅 2026-10-27 - Historical, non-general-purpose ZK rollup, formerly ZKsync v1; upstream marks it as deprecated.
-* [ZKsync Era](https://github.com/matter-labs/zksync-era) ⭐ 3,231 | 🐛 153 | 🌐 Rust | 📅 2026-11-01 - Source for the EraVM-based ZKsync stack.
-* [Era Solidity Compiler](https://github.com/matter-labs/era-compiler-solidity) ⭐ 69 | 🐛 11 | 🌐 Rust | 📅 2026-11-04 - Solidity compiler targeting EraVM.
+* [ZKsync Era](https://github.com/matter-labs/zksync-era) ⭐ 3,232 | 🐛 153 | 🌐 Rust | 📅 2026-11-01 - Source for the EraVM-based ZKsync stack.
+* [Era Solidity Compiler](https://github.com/matter-labs/era-compiler-solidity) ⭐ 69 | 🐛 6 | 🌐 Rust | 📅 2026-11-06 - Solidity compiler targeting EraVM.
 * [ZKsync OS](https://github.com/matter-labs/zksync-os) ⭐ 41 | 🐛 37 | 🌐 Rust | 📅 2026-11-03 - State-transition implementation with RISC-V proving; see the [Developer Preview documentation](https://docs.zksync.io/zksync-network/zksync-os) for the EVM environment and network status.
 * [ZKsync Documentation](https://docs.zksync.io/) - Documentation for ZKsync Era, ZK Stack, and ZKsync OS.
 * [EVM Bytecode Interpreter](https://docs.zksync.io/zksync-protocol/era-vm/evm-interpreter/overview) - EVM bytecode execution on EraVM; distinct from compiling Solidity to EraVM bytecode.
@@ -153,8 +153,8 @@ The former AppliedZKP / Privacy & Scaling Explorations repositories below now li
 
 These systems are relevant to ZK research but use their own virtual machines rather than implementing the EVM.
 
-* [Awesome Starknet](https://github.com/keep-starknet-strange/awesome-starknet) ⭐ 1,550 | 🐛 21 | 📅 2025-01-06 - Curated Starknet resources, libraries, and tools.
-* [Miden VM](https://github.com/0xMiden/miden-vm) ⭐ 778 | 🐛 198 | 🌐 Rust | 📅 2026-11-05 - STARK-based virtual machine, formerly hosted under `maticnetwork/miden`.
+* [Awesome Starknet](https://github.com/keep-starknet-strange/awesome-starknet) ⭐ 1,550 | 🐛 22 | 📅 2025-01-06 - Curated Starknet resources, libraries, and tools.
+* [Miden VM](https://github.com/0xMiden/miden-vm) ⭐ 779 | 🐛 192 | 🌐 Rust | 📅 2026-11-06 - STARK-based virtual machine, formerly hosted under `maticnetwork/miden`.
 * [Warp](https://github.com/NethermindEth/warp) ⚠️ Archived - Archived Solidity-to-Cairo compiler; historical research rather than a maintained integration path.
 * [Cairo VM](https://github.com/starkware-libs/cairo-vm) ⭐ 589 | 🐛 45 | 🌐 Rust | 📅 2026-09-30 - Rust implementation of the Cairo VM used in the Starknet ecosystem.
 
@@ -164,7 +164,7 @@ These systems are relevant to ZK research but use their own virtual machines rat
 
 ### Halo2
 
-* [Halo2 repo](https://github.com/zcash/halo2) ⭐ 932 | 🐛 271 | 🌐 Rust | 📅 2026-10-30
+* [Halo2 repo](https://github.com/zcash/halo2) ⭐ 933 | 🐛 271 | 🌐 Rust | 📅 2026-10-30
 * [PSE Halo2 Fork](https://github.com/privacy-ethereum/halo2) ⚠️ Archived - Archived fork used by the historical PSE / Scroll circuit work.
 * [Halo2 document](https://zcash.github.io/halo2/)
 
@@ -242,4 +242,4 @@ Please open an issue or pull request for broken links, project renames, archived
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
