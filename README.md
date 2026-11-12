@@ -107,17 +107,17 @@ Ecosystem and link maintenance: **September 23, 2026**. Historical resources are
 ### Scroll
 
 * [OpenVM](https://github.com/openvm-org/openvm) ⭐ 399 | 🐛 28 | 🌐 Rust | 📅 2026-11-04 - Modular zkVM framework used by Scroll's prover.
-* [Scroll zkVM Prover](https://github.com/scroll-tech/zkvm-prover) ⭐ 33 | 🐛 12 | 🌐 Rust | 📅 2026-09-28 - Guest programs and prover SDK for Scroll's OpenVM-based proving architecture.
+* [Scroll zkVM Prover](https://github.com/scroll-tech/zkvm-prover) ⭐ 33 | 🐛 11 | 🌐 Rust | 📅 2026-09-28 - Guest programs and prover SDK for Scroll's OpenVM-based proving architecture.
 * [Scroll Documentation](https://docs.scroll.io/) - Developer guides and protocol documentation.
 
 ### Linea
 
-* [Lineth Monorepo](https://github.com/LFDT-Lineth/lineth-monorepo) ⭐ 127 | 🐛 230 | 🌐 Go | 📅 2026-11-11 - Source for the stack powering Linea, formerly the Linea Stack.
+* [Lineth Monorepo](https://github.com/LFDT-Lineth/lineth-monorepo) ⭐ 127 | 🐛 195 | 🌐 Go | 📅 2026-11-12 - Source for the stack powering Linea, formerly the Linea Stack.
 * [Linea Documentation](https://docs.linea.build/) - Developer and protocol documentation for the Linea zkEVM network and its underlying Lineth stack.
 
 ### Taiko
 
-* [Taiko Monorepo](https://github.com/taikoxyz/taiko-mono) ⭐ 4,546 | 🐛 30 | 🌐 Rust | 📅 2026-11-11 - Protocol contracts, clients, and supporting tools.
+* [Taiko Monorepo](https://github.com/taikoxyz/taiko-mono) ⭐ 4,546 | 🐛 30 | 🌐 Rust | 📅 2026-11-12 - Protocol contracts, clients, and supporting tools.
 * [Taiko Documentation](https://docs.taiko.xyz/) - Guides and protocol references for Taiko's Ethereum-equivalent based rollup.
 
 ### ZKsync
@@ -145,7 +145,7 @@ The former AppliedZKP / Privacy & Scaling Explorations repositories below now li
 
 ### Polygon Zero and Plonky
 
-* [Plonky3](https://github.com/Plonky3/Plonky3) ⭐ 864 | 🐛 36 | 🌐 Rust | 📅 2026-10-30 - Polynomial IOP toolkit for building proof systems; not a complete zkEVM.
+* [Plonky3](https://github.com/Plonky3/Plonky3) ⭐ 864 | 🐛 37 | 🌐 Rust | 📅 2026-10-30 - Polynomial IOP toolkit for building proof systems; not a complete zkEVM.
 * [Plonky2](https://github.com/0xPolygonZero/plonky2) ⚠️ Archived - Recursive proof library; upstream marks it as deprecated and recommends Plonky3.
 * [Polygon Zero zkEVM](https://github.com/0xPolygonZero/zk_evm) ⭐ 100 | 🐛 89 | 🌐 Rust | 📅 2025-05-02 - Libraries for proving Ethereum blocks using the Plonky2-based Type 1 zkEVM.
 
@@ -154,7 +154,7 @@ The former AppliedZKP / Privacy & Scaling Explorations repositories below now li
 These systems are relevant to ZK research but use their own virtual machines rather than implementing the EVM.
 
 * [Awesome Starknet](https://github.com/keep-starknet-strange/awesome-starknet) ⭐ 1,550 | 🐛 22 | 📅 2025-01-06 - Curated Starknet resources, libraries, and tools.
-* [Miden VM](https://github.com/0xMiden/miden-vm) ⭐ 781 | 🐛 200 | 🌐 Rust | 📅 2026-11-10 - STARK-based virtual machine, formerly hosted under `maticnetwork/miden`.
+* [Miden VM](https://github.com/0xMiden/miden-vm) ⭐ 781 | 🐛 207 | 🌐 Rust | 📅 2026-11-12 - STARK-based virtual machine, formerly hosted under `maticnetwork/miden`.
 * [Warp](https://github.com/NethermindEth/warp) ⚠️ Archived - Archived Solidity-to-Cairo compiler; historical research rather than a maintained integration path.
 * [Cairo VM](https://github.com/starkware-libs/cairo-vm) ⭐ 589 | 🐛 45 | 🌐 Rust | 📅 2026-09-30 - Rust implementation of the Cairo VM used in the Starknet ecosystem.
 
@@ -164,7 +164,7 @@ These systems are relevant to ZK research but use their own virtual machines rat
 
 ### Halo2
 
-* [Halo2 repo](https://github.com/zcash/halo2) ⭐ 936 | 🐛 289 | 🌐 Rust | 📅 2026-11-10
+* [Halo2 repo](https://github.com/zcash/halo2) ⭐ 939 | 🐛 289 | 🌐 Rust | 📅 2026-11-10
 * [PSE Halo2 Fork](https://github.com/privacy-ethereum/halo2) ⚠️ Archived - Archived fork used by the historical PSE / Scroll circuit work.
 * [Halo2 document](https://zcash.github.io/halo2/)
 
@@ -242,4 +242,4 @@ Please open an issue or pull request for broken links, project renames, archived
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
