@@ -106,7 +106,7 @@ Ecosystem and link maintenance: **September 23, 2026**. Historical resources are
 
 ### Scroll
 
-* [OpenVM](https://github.com/openvm-org/openvm) ⭐ 398 | 🐛 29 | 🌐 Rust | 📅 2026-11-13 - Modular zkVM framework used by Scroll's prover.
+* [OpenVM](https://github.com/openvm-org/openvm) ⭐ 399 | 🐛 29 | 🌐 Rust | 📅 2026-11-13 - Modular zkVM framework used by Scroll's prover.
 * [Scroll zkVM Prover](https://github.com/scroll-tech/zkvm-prover) ⭐ 33 | 🐛 11 | 🌐 Rust | 📅 2026-09-28 - Guest programs and prover SDK for Scroll's OpenVM-based proving architecture.
 * [Scroll Documentation](https://docs.scroll.io/) - Developer guides and protocol documentation.
 
@@ -117,7 +117,7 @@ Ecosystem and link maintenance: **September 23, 2026**. Historical resources are
 
 ### Taiko
 
-* [Taiko Monorepo](https://github.com/taikoxyz/taiko-mono) ⭐ 4,546 | 🐛 38 | 🌐 Rust | 📅 2026-11-14 - Protocol contracts, clients, and supporting tools.
+* [Taiko Monorepo](https://github.com/taikoxyz/taiko-mono) ⭐ 4,544 | 🐛 44 | 🌐 Rust | 📅 2026-11-15 - Protocol contracts, clients, and supporting tools.
 * [Taiko Documentation](https://docs.taiko.xyz/) - Guides and protocol references for Taiko's Ethereum-equivalent based rollup.
 
 ### ZKsync
@@ -153,8 +153,8 @@ The former AppliedZKP / Privacy & Scaling Explorations repositories below now li
 
 These systems are relevant to ZK research but use their own virtual machines rather than implementing the EVM.
 
-* [Awesome Starknet](https://github.com/keep-starknet-strange/awesome-starknet) ⭐ 1,550 | 🐛 23 | 📅 2025-01-06 - Curated Starknet resources, libraries, and tools.
-* [Miden VM](https://github.com/0xMiden/miden-vm) ⭐ 781 | 🐛 201 | 🌐 Rust | 📅 2026-11-14 - STARK-based virtual machine, formerly hosted under `maticnetwork/miden`.
+* [Awesome Starknet](https://github.com/keep-starknet-strange/awesome-starknet) ⭐ 1,548 | 🐛 23 | 📅 2025-01-06 - Curated Starknet resources, libraries, and tools.
+* [Miden VM](https://github.com/0xMiden/miden-vm) ⭐ 781 | 🐛 203 | 🌐 Rust | 📅 2026-11-14 - STARK-based virtual machine, formerly hosted under `maticnetwork/miden`.
 * [Warp](https://github.com/NethermindEth/warp) ⚠️ Archived - Archived Solidity-to-Cairo compiler; historical research rather than a maintained integration path.
 * [Cairo VM](https://github.com/starkware-libs/cairo-vm) ⭐ 589 | 🐛 45 | 🌐 Rust | 📅 2026-09-30 - Rust implementation of the Cairo VM used in the Starknet ecosystem.
 
@@ -164,7 +164,7 @@ These systems are relevant to ZK research but use their own virtual machines rat
 
 ### Halo2
 
-* [Halo2 repo](https://github.com/zcash/halo2) ⭐ 939 | 🐛 287 | 🌐 Rust | 📅 2026-11-13
+* [Halo2 repo](https://github.com/zcash/halo2) ⭐ 939 | 🐛 285 | 🌐 Rust | 📅 2026-11-14
 * [PSE Halo2 Fork](https://github.com/privacy-ethereum/halo2) ⚠️ Archived - Archived fork used by the historical PSE / Scroll circuit work.
 * [Halo2 document](https://zcash.github.io/halo2/)
 
@@ -242,4 +242,4 @@ Please open an issue or pull request for broken links, project renames, archived
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
