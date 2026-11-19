@@ -112,12 +112,12 @@ Ecosystem and link maintenance: **September 23, 2026**. Historical resources are
 
 ### Linea
 
-* [Lineth Monorepo](https://github.com/LFDT-Lineth/lineth-monorepo) ⭐ 127 | 🐛 213 | 🌐 Go | 📅 2026-11-18 - Source for the stack powering Linea, formerly the Linea Stack.
+* [Lineth Monorepo](https://github.com/LFDT-Lineth/lineth-monorepo) ⭐ 127 | 🐛 202 | 🌐 Go | 📅 2026-11-19 - Source for the stack powering Linea, formerly the Linea Stack.
 * [Linea Documentation](https://docs.linea.build/) - Developer and protocol documentation for the Linea zkEVM network and its underlying Lineth stack.
 
 ### Taiko
 
-* [Taiko Monorepo](https://github.com/taikoxyz/taiko-mono) ⭐ 4,545 | 🐛 53 | 🌐 Rust | 📅 2026-11-18 - Protocol contracts, clients, and supporting tools.
+* [Taiko Monorepo](https://github.com/taikoxyz/taiko-mono) ⭐ 4,546 | 🐛 55 | 🌐 Rust | 📅 2026-11-19 - Protocol contracts, clients, and supporting tools.
 * [Taiko Documentation](https://docs.taiko.xyz/) - Guides and protocol references for Taiko's Ethereum-equivalent based rollup.
 
 ### ZKsync
@@ -145,7 +145,7 @@ The former AppliedZKP / Privacy & Scaling Explorations repositories below now li
 
 ### Polygon Zero and Plonky
 
-* [Plonky3](https://github.com/Plonky3/Plonky3) ⭐ 865 | 🐛 39 | 🌐 Rust | 📅 2026-10-30 - Polynomial IOP toolkit for building proof systems; not a complete zkEVM.
+* [Plonky3](https://github.com/Plonky3/Plonky3) ⭐ 866 | 🐛 39 | 🌐 Rust | 📅 2026-10-30 - Polynomial IOP toolkit for building proof systems; not a complete zkEVM.
 * [Plonky2](https://github.com/0xPolygonZero/plonky2) ⚠️ Archived - Recursive proof library; upstream marks it as deprecated and recommends Plonky3.
 * [Polygon Zero zkEVM](https://github.com/0xPolygonZero/zk_evm) ⭐ 100 | 🐛 89 | 🌐 Rust | 📅 2025-05-02 - Libraries for proving Ethereum blocks using the Plonky2-based Type 1 zkEVM.
 
@@ -154,9 +154,9 @@ The former AppliedZKP / Privacy & Scaling Explorations repositories below now li
 These systems are relevant to ZK research but use their own virtual machines rather than implementing the EVM.
 
 * [Awesome Starknet](https://github.com/keep-starknet-strange/awesome-starknet) ⭐ 1,548 | 🐛 23 | 📅 2025-01-06 - Curated Starknet resources, libraries, and tools.
-* [Miden VM](https://github.com/0xMiden/miden-vm) ⭐ 781 | 🐛 204 | 🌐 Rust | 📅 2026-11-18 - STARK-based virtual machine, formerly hosted under `maticnetwork/miden`.
+* [Miden VM](https://github.com/0xMiden/miden-vm) ⭐ 781 | 🐛 198 | 🌐 Rust | 📅 2026-11-19 - STARK-based virtual machine, formerly hosted under `maticnetwork/miden`.
 * [Warp](https://github.com/NethermindEth/warp) ⚠️ Archived - Archived Solidity-to-Cairo compiler; historical research rather than a maintained integration path.
-* [Cairo VM](https://github.com/starkware-libs/cairo-vm) ⭐ 588 | 🐛 48 | 🌐 Rust | 📅 2026-11-18 - Rust implementation of the Cairo VM used in the Starknet ecosystem.
+* [Cairo VM](https://github.com/starkware-libs/cairo-vm) ⭐ 588 | 🐛 48 | 🌐 Rust | 📅 2026-11-19 - Rust implementation of the Cairo VM used in the Starknet ecosystem.
 
 ### Zero-Knowledge-Proofs
 
@@ -214,7 +214,7 @@ Known public pages and repositories that link to this list, checked on **Septemb
 
 * [Blockchain Development Resources](https://github.com/frankiefab100/Blockchain-Development-Resources) ⭐ 1,575 | 🐛 15 | 🌐 Markdown | 📅 2025-02-02 - Includes this list among blockchain-development learning resources.
 * [Library of Ethereum](https://github.com/arpitingle/Library-of-Ethereum) ⭐ 277 | 🐛 4 | 📅 2023-12-26 - Includes this list in its ZKP resource collection.
-* [Blockchain Security Library — ZK](https://github.com/0xNazgul/Blockchain-Security-Library/blob/main/Security%20Library/ZK.md) ⭐ 191 | 🐛 1 | 📅 2025-04-16 - Includes this list alongside ZK research and security resources.
+* [Blockchain Security Library — ZK](https://github.com/0xNazgul/Blockchain-Security-Library/blob/main/Security%20Library/ZK.md) ⭐ 192 | 🐛 1 | 📅 2025-04-16 - Includes this list alongside ZK research and security resources.
 * [Ethereum Knowledge Notes](https://github.com/past-nikiv/knowledge/blob/main/docs/databases/blockchain/ethereum.md) ⭐ 38 | 🐛 0 | 🌐 JavaScript | 📅 2024-07-09 - Includes this list in personal Ethereum reading notes, preserved in an archived knowledge collection.
 * [ZK Rollups Directory — Resource Catalog](https://github.com/zkrollups/zkr-app-directory/blob/zkr-v2/src/components/Resources/resources.js) ⭐ 19 | 🐛 10 | 🌐 JavaScript | 📅 2022-08-29 - Includes Awesome zkEVM in the directory's resource data; linked here as source evidence.
 * [Awesome Identity](https://github.com/telnet193/awesome-identity) ⭐ 10 | 🐛 0 | 📅 2022-07-24 - Links to this list in its ZK resource section.
@@ -242,4 +242,4 @@ Please open an issue or pull request for broken links, project renames, archived
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
