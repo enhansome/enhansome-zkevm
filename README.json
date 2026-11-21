@@ -119,8 +119,8 @@
                 "id": 681656806,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T12:38:06Z",
-                "open_issues": 203,
+                "last_commit": "2026-11-21T01:39:19Z",
+                "open_issues": 204,
                 "owner": "LFDT-Lineth",
                 "repo": "lineth-monorepo",
                 "stars": 127,
@@ -157,7 +157,7 @@
                 "id": 518698474,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-20T12:30:44Z",
+                "last_commit": "2026-11-21T02:57:48Z",
                 "open_issues": 54,
                 "owner": "taikoxyz",
                 "repo": "taiko-mono",
@@ -490,7 +490,7 @@
                 "id": 404963106,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T20:41:15Z",
+                "last_commit": "2026-11-20T17:08:10Z",
                 "open_issues": 197,
                 "owner": "0xMiden",
                 "repo": "miden-vm",
@@ -620,7 +620,7 @@
                 "open_issues": 285,
                 "owner": "zcash",
                 "repo": "halo2",
-                "stars": 941,
+                "stars": 942,
                 "topics": [
                   "cryptocurrency",
                   "cryptography",
@@ -1033,7 +1033,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T12:45:35.338Z",
+    "last_updated": "2026-11-21T12:31:27.532Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome zkEVM resources, libraries, tools and more",

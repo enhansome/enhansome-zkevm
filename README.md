@@ -112,12 +112,12 @@ Ecosystem and link maintenance: **September 23, 2026**. Historical resources are
 
 ### Linea
 
-* [Lineth Monorepo](https://github.com/LFDT-Lineth/lineth-monorepo) ⭐ 127 | 🐛 203 | 🌐 Go | 📅 2026-11-20 - Source for the stack powering Linea, formerly the Linea Stack.
+* [Lineth Monorepo](https://github.com/LFDT-Lineth/lineth-monorepo) ⭐ 127 | 🐛 204 | 🌐 Go | 📅 2026-11-21 - Source for the stack powering Linea, formerly the Linea Stack.
 * [Linea Documentation](https://docs.linea.build/) - Developer and protocol documentation for the Linea zkEVM network and its underlying Lineth stack.
 
 ### Taiko
 
-* [Taiko Monorepo](https://github.com/taikoxyz/taiko-mono) ⭐ 4,546 | 🐛 54 | 🌐 Rust | 📅 2026-11-20 - Protocol contracts, clients, and supporting tools.
+* [Taiko Monorepo](https://github.com/taikoxyz/taiko-mono) ⭐ 4,546 | 🐛 54 | 🌐 Rust | 📅 2026-11-21 - Protocol contracts, clients, and supporting tools.
 * [Taiko Documentation](https://docs.taiko.xyz/) - Guides and protocol references for Taiko's Ethereum-equivalent based rollup.
 
 ### ZKsync
@@ -154,7 +154,7 @@ The former AppliedZKP / Privacy & Scaling Explorations repositories below now li
 These systems are relevant to ZK research but use their own virtual machines rather than implementing the EVM.
 
 * [Awesome Starknet](https://github.com/keep-starknet-strange/awesome-starknet) ⭐ 1,548 | 🐛 23 | 📅 2025-01-06 - Curated Starknet resources, libraries, and tools.
-* [Miden VM](https://github.com/0xMiden/miden-vm) ⭐ 781 | 🐛 197 | 🌐 Rust | 📅 2026-11-19 - STARK-based virtual machine, formerly hosted under `maticnetwork/miden`.
+* [Miden VM](https://github.com/0xMiden/miden-vm) ⭐ 781 | 🐛 197 | 🌐 Rust | 📅 2026-11-20 - STARK-based virtual machine, formerly hosted under `maticnetwork/miden`.
 * [Warp](https://github.com/NethermindEth/warp) ⚠️ Archived - Archived Solidity-to-Cairo compiler; historical research rather than a maintained integration path.
 * [Cairo VM](https://github.com/starkware-libs/cairo-vm) ⭐ 587 | 🐛 48 | 🌐 Rust | 📅 2026-11-20 - Rust implementation of the Cairo VM used in the Starknet ecosystem.
 
@@ -164,7 +164,7 @@ These systems are relevant to ZK research but use their own virtual machines rat
 
 ### Halo2
 
-* [Halo2 repo](https://github.com/zcash/halo2) ⭐ 941 | 🐛 285 | 🌐 Rust | 📅 2026-11-16
+* [Halo2 repo](https://github.com/zcash/halo2) ⭐ 942 | 🐛 285 | 🌐 Rust | 📅 2026-11-16
 * [PSE Halo2 Fork](https://github.com/privacy-ethereum/halo2) ⚠️ Archived - Archived fork used by the historical PSE / Scroll circuit work.
 * [Halo2 document](https://zcash.github.io/halo2/)
 
@@ -242,4 +242,4 @@ Please open an issue or pull request for broken links, project renames, archived
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
